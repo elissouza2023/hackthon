@@ -1,0 +1,395 @@
+text,label
+"Produto excelente, chegou rápido e bem embalado! Super recomendo.",Positivo
+"Chegou com defeito, tive que devolver. Péssimo.",Negativo
+"Entrega no prazo, mas a embalagem veio amassada.",Neutro
+"Amei demais! Cor perfeita, material ótimo.",Positivo
+"Demorou 20 dias pra chegar, nunca mais compro aqui.",Negativo
+"Atendimento nota 10, resolveram meu problema rapidinho.",Positivo
+"Veio o produto errado, tive que abrir disputa.",Negativo
+"Qualidade boa pelo preço pago.",Positivo
+"Barulho estranho logo no primeiro uso, com medo de quebrar.",Negativo
+"Tudo ok, funciona normalmente.",Neutro
+"Melhor custo-benefício que já vi!",Positivo
+"Propaganda enganosa, o produto é bem menor do que parece na foto.",Negativo
+"Entregador super educado, deixou na portaria com cuidado.",Positivo
+"Não recebi até hoje e já faz 45 dias.",Negativo
+"Bonito, mas soltou a costura em uma semana.",Negativo
+"Recomendo 100%, voltarei a comprar.",Positivo
+"Preço justo e entrega antes do prazo.",Positivo
+"Veio faltando peça, tive que comprar separado.",Negativo
+"Ótima qualidade de som, graves potentes.",Positivo
+"Não dura nem metade do que promete a descrição.",Negativo
+"Chegou bem antes do prazo, parabéns!",Positivo
+"Material fraco, parece que vai quebrar fácil.",Negativo
+"Até agora tudo funcionando perfeitamente.",Positivo
+"Infelizmente veio riscado.",Negativo
+"Muito satisfeito com a compra, superou expectativas.",Positivo
+"Não recomendo, bateria dura muito pouco.",Negativo
+"Cor exatamente como na foto, amei!",Positivo
+"Demora no atendimento do SAC.",Negativo
+"Produto bom, mas a caixa veio toda aberta.",Neutro
+"Excelente vendedor, enviou brinde junto!",Positivo
+"Não encaixa direito no meu modelo.",Negativo
+"Chegou rapidinho e funciona perfeitamente.",Positivo
+"Veio com cheiro forte de química.",Negativo
+"Ótimo acabamento, parece caro.",Positivo
+"Propaganda diz uma coisa e entrega outra.",Negativo
+"Entrega super rápida, menos de 48h.",Positivo
+"Quebrou na terceira vez que usei.",Negativo
+"Adorei o design moderno.",Positivo
+"Manual de instruções só em inglês.",Neutro
+"Melhor compra que fiz esse ano!",Positivo
+"Não veio com nota fiscal.",Negativo
+"Funciona bem, mas esquenta demais.",Neutro
+"Recomendado por amigos e não me arrependi.",Positivo
+"Péssima experiência, produto veio usado.",Negativo
+"Tamanho perfeito, ficou ótimo.",Positivo
+"Demorou muito pra responder no chat.",Negativo
+"Qualidade excelente, vale cada centavo.",Positivo
+"Veio com arranhões visíveis.",Negativo
+"Entrega antes do prazo e produto intacto.",Positivo
+"Não gostei do material, parece plástico barato.",Negativo
+"Surpreendeu positivamente!",Positivo
+"Voltou a apresentar defeito após 10 dias.",Negativo
+"Muito prático e fácil de usar.",Positivo
+"Embalagem veio rasgada.",Negativo
+"Estou encantada com a qualidade.",Positivo
+"Não cumpre o que promete.",Negativo
+"Chegou no prazo e bem embalado.",Neutro
+"Adorei! Comprarei mais.",Positivo
+"Infelizmente não serviu pra mim.",Negativo
+"Ótimo atendimento pós-venda.",Positivo
+"Produto diferente da foto.",Negativo
+"Funcionando perfeitamente até agora.",Positivo
+"Bateria viciada, descarrega rápido.",Negativo
+"Cor linda, exatamente o que eu queria.",Positivo
+"Veio faltando parafuso.",Negativo
+"Super indico, qualidade top!",Positivo
+"Ruim, não recomendo.",Negativo
+"Chegou antes do esperado, parabéns!",Positivo
+"Material bem frágil.",Negativo
+"Excelente produto, 5 estrelas.",Positivo
+"Não veio lacrado.",Negativo
+"Muito bom, atendeu todas as expectativas.",Positivo
+"Quebrou em menos de um mês.",Negativo
+"Entrega rápida e produto de ótima qualidade.",Positivo
+"Veio com mancha.",Negativo
+"Perfeito! Voltarei a comprar.",Positivo
+"Não gostei do acabamento.",Negativo
+"Tudo certo, recomendo.",Positivo
+"Demora absurda na entrega.",Negativo
+"Melhor que imaginava.",Positivo
+"Produto veio danificado.",Negativo
+"Adorei o mimo que veio junto!",Positivo
+"Não funciona como descrito.",Negativo
+"Entrega no prazo, tudo ok.",Neutro
+"Muito satisfeito, indico.",Positivo
+"Infelizmente veio com defeito de fabricação.",Negativo
+"Ótimo custo-benefício.",Positivo
+"Propaganda totalmente enganosa.",Negativo
+"Chegou bem rápido e em perfeito estado.",Positivo
+"Material de baixa qualidade.",Negativo
+"Superou minhas expectativas!",Positivo
+"Não recebi o reembolso até hoje.",Negativo
+"Produto lindo e funcional.",Positivo
+"Veio com peça quebrada.",Negativo
+"Recomendo muito!",Positivo
+"Péssimo atendimento.",Negativo
+"Tudo conforme anunciado.",Positivo
+"Não dura nada.",Negativo
+"Excelente vendedor!",Positivo
+"Veio errado duas vezes.",Negativo
+"Muito feliz com a compra.",Positivo
+"Não recomendo de jeito nenhum.",Negativo
+"Qualidade surpreendente pelo preço.",Positivo
+"Entrega atrasada em 15 dias.",Negativo
+"Adorei, compraria de novo.",Positivo
+"Veio usado e sujo.",Negativo
+"Perfeito em todos os aspectos.",Positivo
+"Não funciona.",Negativo
+"Chegou antes do prazo, amei!",Positivo
+"Material muito fino.",Negativo
+"Ótimo produto, 10/10.",Positivo
+"Não veio com garantia.",Negativo
+"Tudo certo, chegou rápido.",Positivo
+"Quebrou logo no primeiro dia.",Negativo
+"Muito bom, indico.",Positivo
+"Embalagem horrível, produto amassado.",Negativo
+"Excelente qualidade.",Positivo
+"Não era o que eu esperava.",Negativo
+"Entrega super rápida!",Positivo
+"Péssima experiência.",Negativo
+"Recomendo muito, valeu cada centavo.",Positivo
+"Veio faltando acessórios.",Negativo
+"Funcionando perfeitamente.",Positivo
+"Bateria não dura nada.",Negativo
+"Lindo e de ótima qualidade.",Positivo
+"Não recebi o produto.",Negativo
+"Muito satisfeito!",Positivo
+"Propaganda mentirosa.",Negativo
+"Chegou no prazo e bem embalado.",Neutro
+"Adorei o atendimento.",Positivo
+"Produto veio com defeito.",Negativo
+"Melhor compra do ano!",Positivo
+"Não recomendo.",Negativo
+"Tudo perfeito!",Positivo
+"Demorou muito.",Negativo
+"Qualidade excelente!",Positivo
+"Veio quebrado.",Negativo
+"Parabéns pelo ótimo serviço.",Positivo
+"Infelizmente não gostei.",Negativo
+"Super indico!",Positivo
+"Não funciona direito.",Negativo
+"Chegou antes do prazo.",Positivo
+"Material ruim.",Negativo
+"Perfeito!",Positivo
+"Não veio com nota fiscal.",Negativo
+"Muito bom mesmo.",Positivo
+"Quebrou rápido.",Negativo
+"Entrega rápida e produto ótimo.",Positivo
+"Veio riscado.",Negativo
+"Recomendo!",Positivo
+"Atendimento ruim.",Negativo
+"Ótimo produto.",Positivo
+"Não era o esperado.",Negativo
+"Chegou tudo certo.",Neutro
+"Amei demais!",Positivo
+"Péssimo.",Negativo
+"Excelente!",Positivo
+"Demora na entrega.",Negativo
+"Top!",Positivo
+"Veio com defeito.",Negativo
+"Muito feliz com a compra.",Positivo
+"Não recomendo.",Negativo
+"Perfeito, amei.",Positivo
+"Ruim.",Negativo
+"Ótimo custo-benefício.",Positivo
+"Veio errado.",Negativo
+"Super satisfeito.",Positivo
+"Não funciona.",Negativo
+"Chegou rápido.",Positivo
+"Material fraco.",Negativo
+"Adorei!",Positivo
+"Quebrou fácil.",Negativo
+"Tudo ok.",Neutro
+"Melhor que esperado.",Positivo
+"Propaganda enganosa.",Negativo
+"Entrega antes do prazo.",Positivo
+"Veio danificado.",Negativo
+"Parabéns!",Positivo
+"Não gostei.",Negativo
+"Qualidade top.",Positivo
+"Demorou demais.",Negativo
+"Recomendo muito.",Positivo
+"Veio faltando peça.",Negativo
+"Funcionando perfeitamente.",Positivo
+"Bateria fraca.",Negativo
+"Lindo!",Positivo
+"Não veio lacrado.",Negativo
+"Excelente vendedor.",Positivo
+"Péssimo serviço.",Negativo
+"Chegou intacto.",Neutro
+"Muito bom!",Positivo
+"Não recomendo.",Negativo
+"Perfeito em tudo.",Positivo
+"Veio com mancha.",Negativo
+"Adorei o mimo.",Positivo
+"Não cumpre o prometido.",Negativo
+"Tudo certo.",Neutro
+"Super indico.",Positivo
+"Produto veio usado.",Negativo
+"Qualidade incrível.",Positivo
+"Entrega atrasada.",Negativo
+"Amei a cor.",Positivo
+"Veio riscado.",Negativo
+"Ótimo!",Positivo
+"Não funciona.",Negativo
+"Chegou antes do prazo.",Positivo
+"Material barato.",Negativo
+"Recomendo 100%.",Positivo
+"Quebrou em uma semana.",Negativo
+"Muito satisfeito.",Positivo
+"Propaganda falsa.",Negativo
+"Entrega rápida.",Positivo
+"Veio com defeito.",Negativo
+"Top demais!",Positivo
+"Não recebi.",Negativo
+"Excelente qualidade.",Positivo
+"Demora absurda.",Negativo
+"Parabéns pelo atendimento.",Positivo
+"Veio errado.",Negativo
+"Funcionou perfeitamente.",Positivo
+"Bateria não dura.",Negativo
+"Lindo e funcional.",Positivo
+"Não recomendo.",Negativo
+"Chegou tudo certo.",Neutro
+"Amei!",Positivo
+"Péssimo.",Negativo
+"Ótimo produto.",Positivo
+"Veio danificado.",Negativo
+"Super satisfeito.",Positivo
+"Não era o esperado.",Negativo
+"Recomendo.",Positivo
+"Quebrou rápido.",Negativo
+"Tudo perfeito.",Positivo
+"Embalagem ruim.",Negativo
+"Adorei.",Positivo
+"Não funciona direito.",Negativo
+"Entrega no prazo.",Neutro
+"Muito bom.",Positivo
+"Veio com defeito.",Negativo
+"Qualidade excelente.",Positivo
+"Não gostei.",Negativo
+"Chegou rápido.",Positivo
+"Material fraco.",Negativo
+"Perfeito!",Positivo
+"Não veio com nota.",Negativo
+"Ótimo custo.",Positivo
+"Quebrou fácil.",Negativo
+"Tudo ok.",Neutro
+"Melhor compra!",Positivo
+"Propaganda enganosa.",Negativo
+"Entrega antes.",Positivo
+"Veio amassado.",Negativo
+"Parabéns!",Positivo
+"Ruim.",Negativo
+"Top!",Positivo
+"Demorou.",Negativo
+"Recomendo.",Positivo
+"Veio faltando.",Negativo
+"Funcionando.",Positivo
+"Bateria ruim.",Negativo
+"Lindo.",Positivo
+"Não lacrado.",Negativo
+"Excelente.",Positivo
+"Péssimo. Pior compra dos últimos tempos.",Negativo
+"Chegou intacto.",Neutro
+"Muito bom.",Positivo
+"Não recomendo.",Negativo
+"Perfeito. Amei o produto.",Positivo
+"Veio com mancha.",Negativo
+"Adorei mimo.",Positivo
+"Não cumpre o que promete.",Negativo
+"Tudo certo.",Neutro
+"Super. Igual ao anúncio.",Positivo
+"Usado. Veio riscado.",Negativo
+"Incrível. Adorei a compra.",Positivo
+"Atraso na entrega.",Negativo
+"Amei cor.",Positivo
+"Manchado.  Sinais de uso ou mal alocadao. ",Negativo
+"Ótimo.",Positivo
+"Não funciona. Não comprem.",Negativo
+"Chegou antes do prazo.",Positivo
+"Barato. Ótimo custo benefício.",Negativo
+"100%. Vale o investimento. ",Positivo
+"Uma semana para chegar.",Negativo
+"Satisfeito.",Positivo
+"Falsa. Propaganda enganosa.",Negativo
+"Rápida. Chegou antes do prazo",Positivo
+"Defeito. Tive que devolver. Não liga.",Negativo
+"Top.",Positivo
+"Não recebi. Pessimo atendimento",Negativo
+"Qualidade excelente.",Positivo
+"Absurda. Demorou na entrega e o produto veio com defeito.",Negativo
+"Atendimento excelente. Ótimo vendedor",Positivo
+"Errado. Produto veio na cor errada.",Negativo
+"Perfeitamente. Sem mais a comentar.",Positivo
+"Não dura. Já deu defeito com uma semana de uso.",Negativo
+"Funcional. Atende ao esperado",Positivo
+"Não Comprem.",Negativo
+"Certo. Igual ao anunciado.",Neutro
+"Amei. Vou comprar novamente.",Positivo
+"Péssimo. Qualidade horrível.",Negativo
+"Produto bom.",Positivo
+"Danificado. Devolvi e pedi reembolso.",Negativo
+"Satisfeito. Recomendo.",Positivo
+"Esperava algo de melhor qualidade.",Negativo
+"Recomendo.",Positivo
+"Rápido na entrega, porém péssima qualidade.",Negativo
+"Perfeito.",Positivo
+"Ruim. ",Negativo
+"Adorei.",Positivo
+"Direito como no anúncio, produto sem surpresas, normal",Neutro
+"Chegou no prazo.",Neutro
+"Bom.",Positivo
+"Veio com Defeito.",Negativo
+"Excelente.",Positivo
+"Gostei da rapidez na entrega, mas o produto é ruim.",Negativo
+"Rápido na entrega .",Positivo
+"Produto Fraco.",Negativo
+"Perfeito.",Positivo
+"Nota 0.",Negativo
+"Custo benefício ok.",Positivo
+"Fácil de estragar.",Negativo
+"Ok.",Neutro
+"Boa compra .",Positivo
+"Enganosa.",Negativo
+"Chegou antes do prazo.",Positivo
+"Veio amassado.",Negativo
+"Parabéns.",Positivo
+"Ruim.",Negativo
+"Top.",Positivo
+"Demorou demais a entrega.",Negativo
+"Muito bom.",Positivo
+"Faltando peça.",Negativo
+"Funcionando perfeitamente.",Positivo
+"Ruim demais.",Negativo
+"Lindo.",Positivo
+"Veio Lacrado e quebrado.",Negativo
+"Excelente.",Positivo
+"Péssimo.",Negativo
+"Chegou Intacto.",Neutro
+"Bom.",Positivo
+"Recomendo a compra.",Positivo
+"Perfeito.",Positivo
+"Manchado.",Negativo
+"Um mimo.",Positivo
+"Não cumpre o prometido.",Negativo
+"Certo.",Neutro
+"Super recomendo.",Positivo
+"Usado. Em várias marcas.",Negativo
+"Incrível.",Positivo
+"Atraso na entrega.",Negativo
+"Cor linda.",Positivo
+"Riscado.",Negativo
+"Ótimo produto.",Positivo
+"Funciona mesmo.",Negativo
+"Entrega no prazo.",Positivo
+"Barato mas ineficaz.",Negativo
+"100%.",Positivo
+"Demorou duas Semanas para entregar.",Negativo
+"Satisfeito.",Positivo
+"Falsa propaganda.",Negativo
+"Rápida entrega.",Positivo
+"Veio com Defeito.",Negativo
+"Top.",Positivo
+"Recebi na cor errada.",Negativo
+"Qualidade boa.",Positivo
+"Absurdamente ruim.",Negativo
+"Atendimento excelente.",Positivo
+"Erraram o tamanho.",Negativo
+"Perfeitamente. Como no anúncio",Positivo
+"Dura. Não é confortável de usar.",Negativo
+"Funcional.",Positivo
+"Não compro mais.",Negativo
+"Certo.Como anunciado.",Neutro
+"O produto chegou. Não testei completamente ainda.",Neutro
+"A embalagem estava intacta. O prazo foi o esperado.",Neutro
+"Recebi o item, parece estar em ordem.",Neutro
+"É um produto que cumpre o que promete, sem grandes surpresas.",Neutro
+"A mercadoria veio no tamanho certo, por enquanto tudo bem.",Neutro
+"O material é razoável pelo preço que paguei.",Neutro
+"Achei que fosse um pouco diferente, mas serve.",Neutro
+"A cor do produto não me impressionou, mas está usável.",Neutro
+"A experiência de compra foi padrão, sem problemas ou destaques.",Neutro
+"Demorou um pouco para chegar, mas nada fora do normal.",	Neutro
+"Aparentemente tudo correto. Vou começar a usar amanhã.",	Neutro
+"O manual de instruções é bem básico.",Neutro
+"É um item funcional, apenas isso.",Neutro
+"Fiquei na dúvida entre este e outro modelo.",Neutro
+"O vendedor respondeu às minhas perguntas a tempo.",Neutro
+"Não foi a melhor compra, mas também não é ruim.",Neutro
+"A caixa veio um pouco amassada, mas o conteúdo está ok.",	Neutro
+"O acabamento não é de luxo, mas é aceitável.",	Neutro
+"Sinceramente, a qualidade está de acordo com o preço baixo.",Neutro
+"A nota fiscal chegou junto, sem problemas burocráticos.",Neutro
