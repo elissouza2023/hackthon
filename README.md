@@ -7,7 +7,7 @@ Projeto em desenvolvimento para análise de sentimentos (Positivo, Negativo e Ne
 * `app.py` — API Flask (versão final será integrada ao backend).
 * `sentiment_pipeline.joblib` — Modelo treinado.
 * `label_encoder.joblib` — Codificador das classes.
-* `Praticas ESG em T.I.csv` — Dataset original.
+* `Data.csv` — Dataset original.
 * `notebooks/` — Testes, análises e prototipação.
 * `requirements.txt` — Dependências do projeto.
 
