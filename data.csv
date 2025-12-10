@@ -1,395 +1,1157 @@
-text,label
-"Produto excelente, chegou rápido e bem embalado! Super recomendo.",Positivo
-"Chegou com defeito, tive que devolver. Péssimo.",Negativo
-"Entrega no prazo, mas a embalagem veio amassada.",Neutro
-"Amei demais! Cor perfeita, material ótimo.",Positivo
-"Demorou 20 dias pra chegar, nunca mais compro aqui.",Negativo
-"Atendimento nota 10, resolveram meu problema rapidinho.",Positivo
-"Veio o produto errado, tive que abrir disputa.",Negativo
-"Qualidade boa pelo preço pago.",Positivo
-"Barulho estranho logo no primeiro uso, com medo de quebrar.",Negativo
-"Tudo ok, funciona normalmente.",Neutro
-"Melhor custo-benefício que já vi!",Positivo
-"Propaganda enganosa, o produto é bem menor do que parece na foto.",Negativo
-"Entregador super educado, deixou na portaria com cuidado.",Positivo
-"Não recebi até hoje e já faz 45 dias.",Negativo
-"Bonito, mas soltou a costura em uma semana.",Negativo
-"Recomendo 100%, voltarei a comprar.",Positivo
-"Preço justo e entrega antes do prazo.",Positivo
-"Veio faltando peça, tive que comprar separado.",Negativo
-"Ótima qualidade de som, graves potentes.",Positivo
-"Não dura nem metade do que promete a descrição.",Negativo
-"Chegou bem antes do prazo, parabéns!",Positivo
-"Material fraco, parece que vai quebrar fácil.",Negativo
-"Até agora tudo funcionando perfeitamente.",Positivo
-"Infelizmente veio riscado.",Negativo
-"Muito satisfeito com a compra, superou expectativas.",Positivo
-"Não recomendo, bateria dura muito pouco.",Negativo
-"Cor exatamente como na foto, amei!",Positivo
-"Demora no atendimento do SAC.",Negativo
-"Produto bom, mas a caixa veio toda aberta.",Neutro
-"Excelente vendedor, enviou brinde junto!",Positivo
-"Não encaixa direito no meu modelo.",Negativo
-"Chegou rapidinho e funciona perfeitamente.",Positivo
-"Veio com cheiro forte de química.",Negativo
-"Ótimo acabamento, parece caro.",Positivo
-"Propaganda diz uma coisa e entrega outra.",Negativo
-"Entrega super rápida, menos de 48h.",Positivo
-"Quebrou na terceira vez que usei.",Negativo
-"Adorei o design moderno.",Positivo
-"Manual de instruções só em inglês.",Neutro
-"Melhor compra que fiz esse ano!",Positivo
-"Não veio com nota fiscal.",Negativo
-"Funciona bem, mas esquenta demais.",Neutro
-"Recomendado por amigos e não me arrependi.",Positivo
-"Péssima experiência, produto veio usado.",Negativo
-"Tamanho perfeito, ficou ótimo.",Positivo
-"Demorou muito pra responder no chat.",Negativo
-"Qualidade excelente, vale cada centavo.",Positivo
-"Veio com arranhões visíveis.",Negativo
-"Entrega antes do prazo e produto intacto.",Positivo
-"Não gostei do material, parece plástico barato.",Negativo
-"Surpreendeu positivamente!",Positivo
-"Voltou a apresentar defeito após 10 dias.",Negativo
-"Muito prático e fácil de usar.",Positivo
-"Embalagem veio rasgada.",Negativo
-"Estou encantada com a qualidade.",Positivo
-"Não cumpre o que promete.",Negativo
-"Chegou no prazo e bem embalado.",Neutro
-"Adorei! Comprarei mais.",Positivo
-"Infelizmente não serviu pra mim.",Negativo
-"Ótimo atendimento pós-venda.",Positivo
-"Produto diferente da foto.",Negativo
-"Funcionando perfeitamente até agora.",Positivo
-"Bateria viciada, descarrega rápido.",Negativo
-"Cor linda, exatamente o que eu queria.",Positivo
-"Veio faltando parafuso.",Negativo
-"Super indico, qualidade top!",Positivo
-"Ruim, não recomendo.",Negativo
-"Chegou antes do esperado, parabéns!",Positivo
-"Material bem frágil.",Negativo
-"Excelente produto, 5 estrelas.",Positivo
-"Não veio lacrado.",Negativo
-"Muito bom, atendeu todas as expectativas.",Positivo
-"Quebrou em menos de um mês.",Negativo
-"Entrega rápida e produto de ótima qualidade.",Positivo
-"Veio com mancha.",Negativo
-"Perfeito! Voltarei a comprar.",Positivo
-"Não gostei do acabamento.",Negativo
-"Tudo certo, recomendo.",Positivo
-"Demora absurda na entrega.",Negativo
-"Melhor que imaginava.",Positivo
-"Produto veio danificado.",Negativo
-"Adorei o mimo que veio junto!",Positivo
-"Não funciona como descrito.",Negativo
-"Entrega no prazo, tudo ok.",Neutro
-"Muito satisfeito, indico.",Positivo
-"Infelizmente veio com defeito de fabricação.",Negativo
-"Ótimo custo-benefício.",Positivo
-"Propaganda totalmente enganosa.",Negativo
-"Chegou bem rápido e em perfeito estado.",Positivo
-"Material de baixa qualidade.",Negativo
-"Superou minhas expectativas!",Positivo
-"Não recebi o reembolso até hoje.",Negativo
-"Produto lindo e funcional.",Positivo
-"Veio com peça quebrada.",Negativo
-"Recomendo muito!",Positivo
-"Péssimo atendimento.",Negativo
-"Tudo conforme anunciado.",Positivo
-"Não dura nada.",Negativo
-"Excelente vendedor!",Positivo
-"Veio errado duas vezes.",Negativo
-"Muito feliz com a compra.",Positivo
-"Não recomendo de jeito nenhum.",Negativo
-"Qualidade surpreendente pelo preço.",Positivo
-"Entrega atrasada em 15 dias.",Negativo
-"Adorei, compraria de novo.",Positivo
-"Veio usado e sujo.",Negativo
-"Perfeito em todos os aspectos.",Positivo
-"Não funciona.",Negativo
-"Chegou antes do prazo, amei!",Positivo
-"Material muito fino.",Negativo
-"Ótimo produto, 10/10.",Positivo
-"Não veio com garantia.",Negativo
-"Tudo certo, chegou rápido.",Positivo
-"Quebrou logo no primeiro dia.",Negativo
-"Muito bom, indico.",Positivo
-"Embalagem horrível, produto amassado.",Negativo
-"Excelente qualidade.",Positivo
-"Não era o que eu esperava.",Negativo
-"Entrega super rápida!",Positivo
-"Péssima experiência.",Negativo
-"Recomendo muito, valeu cada centavo.",Positivo
-"Veio faltando acessórios.",Negativo
-"Funcionando perfeitamente.",Positivo
-"Bateria não dura nada.",Negativo
-"Lindo e de ótima qualidade.",Positivo
-"Não recebi o produto.",Negativo
-"Muito satisfeito!",Positivo
-"Propaganda mentirosa.",Negativo
-"Chegou no prazo e bem embalado.",Neutro
-"Adorei o atendimento.",Positivo
-"Produto veio com defeito.",Negativo
-"Melhor compra do ano!",Positivo
-"Não recomendo.",Negativo
-"Tudo perfeito!",Positivo
-"Demorou muito.",Negativo
-"Qualidade excelente!",Positivo
-"Veio quebrado.",Negativo
-"Parabéns pelo ótimo serviço.",Positivo
-"Infelizmente não gostei.",Negativo
-"Super indico!",Positivo
-"Não funciona direito.",Negativo
-"Chegou antes do prazo.",Positivo
-"Material ruim.",Negativo
-"Perfeito!",Positivo
-"Não veio com nota fiscal.",Negativo
-"Muito bom mesmo.",Positivo
-"Quebrou rápido.",Negativo
-"Entrega rápida e produto ótimo.",Positivo
-"Veio riscado.",Negativo
-"Recomendo!",Positivo
-"Atendimento ruim.",Negativo
-"Ótimo produto.",Positivo
-"Não era o esperado.",Negativo
-"Chegou tudo certo.",Neutro
-"Amei demais!",Positivo
-"Péssimo.",Negativo
-"Excelente!",Positivo
-"Demora na entrega.",Negativo
-"Top!",Positivo
-"Veio com defeito.",Negativo
-"Muito feliz com a compra.",Positivo
-"Não recomendo.",Negativo
-"Perfeito, amei.",Positivo
-"Ruim.",Negativo
-"Ótimo custo-benefício.",Positivo
-"Veio errado.",Negativo
-"Super satisfeito.",Positivo
-"Não funciona.",Negativo
-"Chegou rápido.",Positivo
-"Material fraco.",Negativo
-"Adorei!",Positivo
-"Quebrou fácil.",Negativo
-"Tudo ok.",Neutro
-"Melhor que esperado.",Positivo
-"Propaganda enganosa.",Negativo
-"Entrega antes do prazo.",Positivo
-"Veio danificado.",Negativo
-"Parabéns!",Positivo
-"Não gostei.",Negativo
-"Qualidade top.",Positivo
-"Demorou demais.",Negativo
-"Recomendo muito.",Positivo
-"Veio faltando peça.",Negativo
-"Funcionando perfeitamente.",Positivo
-"Bateria fraca.",Negativo
-"Lindo!",Positivo
-"Não veio lacrado.",Negativo
-"Excelente vendedor.",Positivo
-"Péssimo serviço.",Negativo
-"Chegou intacto.",Neutro
-"Muito bom!",Positivo
-"Não recomendo.",Negativo
-"Perfeito em tudo.",Positivo
-"Veio com mancha.",Negativo
-"Adorei o mimo.",Positivo
-"Não cumpre o prometido.",Negativo
-"Tudo certo.",Neutro
-"Super indico.",Positivo
-"Produto veio usado.",Negativo
-"Qualidade incrível.",Positivo
-"Entrega atrasada.",Negativo
-"Amei a cor.",Positivo
-"Veio riscado.",Negativo
-"Ótimo!",Positivo
-"Não funciona.",Negativo
-"Chegou antes do prazo.",Positivo
-"Material barato.",Negativo
-"Recomendo 100%.",Positivo
-"Quebrou em uma semana.",Negativo
-"Muito satisfeito.",Positivo
-"Propaganda falsa.",Negativo
-"Entrega rápida.",Positivo
-"Veio com defeito.",Negativo
-"Top demais!",Positivo
-"Não recebi.",Negativo
-"Excelente qualidade.",Positivo
-"Demora absurda.",Negativo
-"Parabéns pelo atendimento.",Positivo
-"Veio errado.",Negativo
-"Funcionou perfeitamente.",Positivo
-"Bateria não dura.",Negativo
-"Lindo e funcional.",Positivo
-"Não recomendo.",Negativo
-"Chegou tudo certo.",Neutro
-"Amei!",Positivo
-"Péssimo.",Negativo
-"Ótimo produto.",Positivo
-"Veio danificado.",Negativo
-"Super satisfeito.",Positivo
-"Não era o esperado.",Negativo
-"Recomendo.",Positivo
-"Quebrou rápido.",Negativo
-"Tudo perfeito.",Positivo
-"Embalagem ruim.",Negativo
-"Adorei.",Positivo
-"Não funciona direito.",Negativo
-"Entrega no prazo.",Neutro
-"Muito bom.",Positivo
-"Veio com defeito.",Negativo
-"Qualidade excelente.",Positivo
-"Não gostei.",Negativo
-"Chegou rápido.",Positivo
-"Material fraco.",Negativo
-"Perfeito!",Positivo
-"Não veio com nota.",Negativo
-"Ótimo custo.",Positivo
-"Quebrou fácil.",Negativo
-"Tudo ok.",Neutro
-"Melhor compra!",Positivo
-"Propaganda enganosa.",Negativo
-"Entrega antes.",Positivo
-"Veio amassado.",Negativo
-"Parabéns!",Positivo
-"Ruim.",Negativo
-"Top!",Positivo
-"Demorou.",Negativo
-"Recomendo.",Positivo
-"Veio faltando.",Negativo
-"Funcionando.",Positivo
-"Bateria ruim.",Negativo
-"Lindo.",Positivo
-"Não lacrado.",Negativo
-"Excelente.",Positivo
-"Péssimo. Pior compra dos últimos tempos.",Negativo
-"Chegou intacto.",Neutro
-"Muito bom.",Positivo
-"Não recomendo.",Negativo
-"Perfeito. Amei o produto.",Positivo
-"Veio com mancha.",Negativo
-"Adorei mimo.",Positivo
-"Não cumpre o que promete.",Negativo
-"Tudo certo.",Neutro
-"Super. Igual ao anúncio.",Positivo
-"Usado. Veio riscado.",Negativo
-"Incrível. Adorei a compra.",Positivo
-"Atraso na entrega.",Negativo
-"Amei cor.",Positivo
-"Manchado.  Sinais de uso ou mal alocadao. ",Negativo
-"Ótimo.",Positivo
-"Não funciona. Não comprem.",Negativo
-"Chegou antes do prazo.",Positivo
-"Barato. Ótimo custo benefício.",Negativo
-"100%. Vale o investimento. ",Positivo
-"Uma semana para chegar.",Negativo
-"Satisfeito.",Positivo
-"Falsa. Propaganda enganosa.",Negativo
-"Rápida. Chegou antes do prazo",Positivo
-"Defeito. Tive que devolver. Não liga.",Negativo
-"Top.",Positivo
-"Não recebi. Pessimo atendimento",Negativo
-"Qualidade excelente.",Positivo
-"Absurda. Demorou na entrega e o produto veio com defeito.",Negativo
-"Atendimento excelente. Ótimo vendedor",Positivo
-"Errado. Produto veio na cor errada.",Negativo
-"Perfeitamente. Sem mais a comentar.",Positivo
-"Não dura. Já deu defeito com uma semana de uso.",Negativo
-"Funcional. Atende ao esperado",Positivo
-"Não Comprem.",Negativo
-"Certo. Igual ao anunciado.",Neutro
-"Amei. Vou comprar novamente.",Positivo
-"Péssimo. Qualidade horrível.",Negativo
-"Produto bom.",Positivo
-"Danificado. Devolvi e pedi reembolso.",Negativo
-"Satisfeito. Recomendo.",Positivo
-"Esperava algo de melhor qualidade.",Negativo
-"Recomendo.",Positivo
-"Rápido na entrega, porém péssima qualidade.",Negativo
-"Perfeito.",Positivo
-"Ruim. ",Negativo
-"Adorei.",Positivo
-"Direito como no anúncio, produto sem surpresas, normal",Neutro
-"Chegou no prazo.",Neutro
-"Bom.",Positivo
-"Veio com Defeito.",Negativo
-"Excelente.",Positivo
-"Gostei da rapidez na entrega, mas o produto é ruim.",Negativo
-"Rápido na entrega .",Positivo
-"Produto Fraco.",Negativo
-"Perfeito.",Positivo
-"Nota 0.",Negativo
-"Custo benefício ok.",Positivo
-"Fácil de estragar.",Negativo
-"Ok.",Neutro
-"Boa compra .",Positivo
-"Enganosa.",Negativo
-"Chegou antes do prazo.",Positivo
-"Veio amassado.",Negativo
-"Parabéns.",Positivo
-"Ruim.",Negativo
-"Top.",Positivo
-"Demorou demais a entrega.",Negativo
-"Muito bom.",Positivo
-"Faltando peça.",Negativo
-"Funcionando perfeitamente.",Positivo
-"Ruim demais.",Negativo
-"Lindo.",Positivo
-"Veio Lacrado e quebrado.",Negativo
-"Excelente.",Positivo
-"Péssimo.",Negativo
-"Chegou Intacto.",Neutro
-"Bom.",Positivo
-"Recomendo a compra.",Positivo
-"Perfeito.",Positivo
-"Manchado.",Negativo
-"Um mimo.",Positivo
-"Não cumpre o prometido.",Negativo
-"Certo.",Neutro
-"Super recomendo.",Positivo
-"Usado. Em várias marcas.",Negativo
-"Incrível.",Positivo
-"Atraso na entrega.",Negativo
-"Cor linda.",Positivo
-"Riscado.",Negativo
-"Ótimo produto.",Positivo
-"Funciona mesmo.",Negativo
-"Entrega no prazo.",Positivo
-"Barato mas ineficaz.",Negativo
-"100%.",Positivo
-"Demorou duas Semanas para entregar.",Negativo
-"Satisfeito.",Positivo
-"Falsa propaganda.",Negativo
-"Rápida entrega.",Positivo
-"Veio com Defeito.",Negativo
-"Top.",Positivo
-"Recebi na cor errada.",Negativo
-"Qualidade boa.",Positivo
-"Absurdamente ruim.",Negativo
-"Atendimento excelente.",Positivo
-"Erraram o tamanho.",Negativo
-"Perfeitamente. Como no anúncio",Positivo
-"Dura. Não é confortável de usar.",Negativo
-"Funcional.",Positivo
-"Não compro mais.",Negativo
-"Certo.Como anunciado.",Neutro
-"O produto chegou. Não testei completamente ainda.",Neutro
-"A embalagem estava intacta. O prazo foi o esperado.",Neutro
-"Recebi o item, parece estar em ordem.",Neutro
-"É um produto que cumpre o que promete, sem grandes surpresas.",Neutro
-"A mercadoria veio no tamanho certo, por enquanto tudo bem.",Neutro
-"O material é razoável pelo preço que paguei.",Neutro
-"Achei que fosse um pouco diferente, mas serve.",Neutro
-"A cor do produto não me impressionou, mas está usável.",Neutro
-"A experiência de compra foi padrão, sem problemas ou destaques.",Neutro
-"Demorou um pouco para chegar, mas nada fora do normal.",	Neutro
-"Aparentemente tudo correto. Vou começar a usar amanhã.",	Neutro
-"O manual de instruções é bem básico.",Neutro
-"É um item funcional, apenas isso.",Neutro
-"Fiquei na dúvida entre este e outro modelo.",Neutro
-"O vendedor respondeu às minhas perguntas a tempo.",Neutro
-"Não foi a melhor compra, mas também não é ruim.",Neutro
-"A caixa veio um pouco amassada, mas o conteúdo está ok.",	Neutro
-"O acabamento não é de luxo, mas é aceitável.",	Neutro
-"Sinceramente, a qualidade está de acordo com o preço baixo.",Neutro
-"A nota fiscal chegou junto, sem problemas burocráticos.",Neutro
+idtext,text,label,date,age,country
+000001,"Produto excelente, chegou rápido e bem embalado! Super recomendo.",Positivo,12-03-2025,68,Brazil
+000002,"Chegou com defeito, tive que devolver. Péssimo.",Negativo,27-11-2025,89,Brazil
+000003,"Entrega no prazo, mas a embalagem veio amassada.",Neutro,13-07-2025,84,Brazil
+000004,"Amei demais! Cor perfeita, material ótimo.",Positivo,24-01-2025,72,Brazil
+000005,"Demorou 20 dias pra chegar, nunca mais compro aqui.",Negativo,08-02-2025,27,Brazil
+000006,"Atendimento nota 10, resolveram meu problema rapidinho.",Positivo,06-02-2025,39,Brazil
+000007,"Veio o produto errado, tive que abrir disputa.",Negativo,11-08-2025,90,Brazil
+000008,Qualidade boa pelo preço pago.,Positivo,04-02-2025,38,Brazil
+000009,"Barulho estranho logo no primeiro uso, com medo de quebrar.",Negativo,09-07-2025,68,Brazil
+000010,"Tudo ok, funciona normalmente.",Neutro,10-07-2025,71,Brazil
+000011,Melhor custo-benefício que já vi!,Positivo,10-11-2025,22,Brazil
+000012,"Propaganda enganosa, o produto é bem menor do que parece na foto.",Negativo,16-06-2025,49,Brazil
+000013,"Entregador super educado, deixou na portaria com cuidado.",Positivo,27-02-2025,71,Brazil
+000014,Não recebi até hoje e já faz 45 dias.,Negativo,29-05-2025,57,Brazil
+000015,"Bonito, mas soltou a costura em uma semana.",Negativo,16-07-2025,63,Brazil
+000016,"Recomendo 100%, voltarei a comprar.",Positivo,21-07-2025,25,Brazil
+000017,Preço justo e entrega antes do prazo.,Positivo,08-06-2025,41,Brazil
+000018,"Veio faltando peça, tive que comprar separado.",Negativo,02-10-2025,61,Brazil
+000019,"Ótima qualidade de som, graves potentes.",Positivo,07-04-2025,62,Brazil
+000020,Não dura nem metade do que promete a descrição.,Negativo,16-11-2025,75,Brazil
+000021,"Chegou bem antes do prazo, parabéns!",Positivo,16-01-2025,27,Brazil
+000022,"Material fraco, parece que vai quebrar fácil.",Negativo,25-05-2025,55,Brazil
+000023,Até agora tudo funcionando perfeitamente.,Positivo,17-04-2025,58,Brazil
+000024,Infelizmente veio riscado.,Negativo,25-04-2025,24,Brazil
+000025,"Muito satisfeito com a compra, superou expectativas.",Positivo,19-05-2025,69,Brazil
+000026,"Não recomendo, bateria dura muito pouco.",Negativo,02-01-2025,41,Brazil
+000027,"Cor exatamente como na foto, amei!",Positivo,06-05-2025,60,Brazil
+000028,Demora no atendimento do SAC.,Negativo,27-03-2025,45,Brazil
+000029,"Produto bom, mas a caixa veio toda aberta.",Neutro,17-07-2025,59,Brazil
+000030,"Excelente vendedor, enviou brinde junto!",Positivo,17-09-2025,20,Brazil
+000031,Não encaixa direito no meu modelo.,Negativo,04-07-2025,52,Brazil
+000032,Chegou rapidinho e funciona perfeitamente.,Positivo,31-07-2025,33,Brazil
+000033,Veio com cheiro forte de química.,Negativo,12-06-2025,26,Brazil
+000034,"Ótimo acabamento, parece caro.",Positivo,11-04-2025,80,Brazil
+000035,Propaganda diz uma coisa e entrega outra.,Negativo,29-11-2025,19,Brazil
+000036,"Entrega super rápida, menos de 48h.",Positivo,23-11-2025,57,Brazil
+000037,Quebrou na terceira vez que usei.,Negativo,14-08-2025,83,Brazil
+000038,Adorei o design moderno.,Positivo,05-07-2025,66,Brazil
+000039,Manual de instruções só em inglês.,Neutro,26-04-2025,32,Brazil
+000040,Melhor compra que fiz esse ano!,Positivo,06-08-2025,29,Brazil
+000041,Não veio com nota fiscal.,Negativo,22-04-2025,62,Brazil
+000042,"Funciona bem, mas esquenta demais.",Neutro,09-11-2025,89,Brazil
+000043,Recomendado por amigos e não me arrependi.,Positivo,09-03-2025,67,Brazil
+000044,"Péssima experiência, produto veio usado.",Negativo,28-01-2025,78,Brazil
+000045,"Tamanho perfeito, ficou ótimo.",Positivo,26-02-2025,30,Brazil
+000046,Demorou muito pra responder no chat.,Negativo,28-01-2025,56,Brazil
+000047,"Qualidade excelente, vale cada centavo.",Positivo,21-05-2025,84,Brazil
+000048,Veio com arranhões visíveis.,Negativo,11-04-2025,36,Brazil
+000049,Entrega antes do prazo e produto intacto.,Positivo,22-09-2025,21,Brazil
+000050,"Não gostei do material, parece plástico barato.",Negativo,06-01-2025,30,Brazil
+000051,Surpreendeu positivamente!,Positivo,25-05-2025,35,Brazil
+000052,Voltou a apresentar defeito após 10 dias.,Negativo,19-02-2025,51,Brazil
+000053,Muito prático e fácil de usar.,Positivo,25-04-2025,43,Brazil
+000054,Embalagem veio rasgada.,Negativo,09-04-2025,84,Brazil
+000055,Estou encantada com a qualidade.,Positivo,12-06-2025,30,Brazil
+000056,Não cumpre o que promete.,Negativo,01-06-2025,64,Brazil
+000057,Chegou no prazo e bem embalado.,Neutro,26-04-2025,37,Brazil
+000058,Adorei! Comprarei mais.,Positivo,01-04-2025,44,Brazil
+000059,Infelizmente não serviu pra mim.,Negativo,12-11-2025,83,Brazil
+000060,Ótimo atendimento pós-venda.,Positivo,03-10-2025,20,Brazil
+000061,Produto diferente da foto.,Negativo,26-11-2025,86,Brazil
+000062,Funcionando perfeitamente até agora.,Positivo,17-04-2025,44,Brazil
+000063,"Bateria viciada, descarrega rápido.",Negativo,01-03-2025,61,Brazil
+000064,"Cor linda, exatamente o que eu queria.",Positivo,27-02-2025,59,Brazil
+000065,Veio faltando parafuso.,Negativo,28-11-2025,20,Brazil
+000066,"Super indico, qualidade top!",Positivo,16-03-2025,63,Brazil
+000067,"Ruim, não recomendo.",Negativo,21-03-2025,59,Brazil
+000068,"Chegou antes do esperado, parabéns!",Positivo,22-09-2025,55,Brazil
+000069,Material bem frágil.,Negativo,25-10-2025,30,Brazil
+000070,"Excelente produto, 5 estrelas.",Positivo,28-11-2025,60,Brazil
+000071,Não veio lacrado.,Negativo,02-02-2025,38,Brazil
+000072,"Muito bom, atendeu todas as expectativas.",Positivo,31-01-2025,79,Brazil
+000073,Quebrou em menos de um mês.,Negativo,24-04-2025,25,Brazil
+000074,Entrega rápida e produto de ótima qualidade.,Positivo,03-06-2025,18,Brazil
+000075,Veio com mancha.,Negativo,11-08-2025,51,Brazil
+000076,Perfeito! Voltarei a comprar.,Positivo,31-03-2025,22,Brazil
+000077,Não gostei do acabamento.,Negativo,09-06-2025,51,Brazil
+000078,"Tudo certo, recomendo.",Positivo,04-12-2025,25,Brazil
+000079,Demora absurda na entrega.,Negativo,06-06-2025,49,Brazil
+000080,Melhor que imaginava.,Positivo,06-01-2025,24,Brazil
+000081,Produto veio danificado.,Negativo,18-07-2025,60,Brazil
+000082,Adorei o mimo que veio junto!,Positivo,30-06-2025,26,Brazil
+000083,Não funciona como descrito.,Negativo,08-05-2025,52,Brazil
+000084,"Entrega no prazo, tudo ok.",Neutro,13-07-2025,55,Brazil
+000085,"Muito satisfeito, indico.",Positivo,11-08-2025,84,Brazil
+000086,Infelizmente veio com defeito de fabricação.,Negativo,28-06-2025,22,Brazil
+000087,Ótimo custo-benefício.,Positivo,12-01-2025,29,Brazil
+000088,Propaganda totalmente enganosa.,Negativo,07-11-2025,71,Brazil
+000089,Chegou bem rápido e em perfeito estado.,Positivo,07-10-2025,57,Brazil
+000090,Material de baixa qualidade.,Negativo,14-11-2025,32,Brazil
+000091,Superou minhas expectativas!,Positivo,01-10-2025,77,Brazil
+000092,Não recebi o reembolso até hoje.,Negativo,12-11-2025,53,Brazil
+000093,Produto lindo e funcional.,Positivo,24-03-2025,83,Brazil
+000094,Veio com peça quebrada.,Negativo,13-08-2025,36,Brazil
+000095,Recomendo muito!,Positivo,19-10-2025,51,Brazil
+000096,Péssimo atendimento.,Negativo,28-10-2025,63,Brazil
+000097,Tudo conforme anunciado.,Positivo,07-01-2025,83,Brazil
+000098,Não dura nada.,Negativo,19-05-2025,53,Brazil
+000099,Excelente vendedor!,Positivo,29-01-2025,42,Brazil
+000100,Veio errado duas vezes.,Negativo,29-05-2025,81,Brazil
+000101,Muito feliz com a compra.,Positivo,28-10-2025,66,Brazil
+000102,Não recomendo de jeito nenhum.,Negativo,20-01-2025,64,Brazil
+000103,Qualidade surpreendente pelo preço.,Positivo,21-04-2025,65,Brazil
+000104,Entrega atrasada em 15 dias.,Negativo,28-03-2025,71,Brazil
+000105,"Adorei, compraria de novo.",Positivo,16-06-2025,61,Brazil
+000106,Veio usado e sujo.,Negativo,10-02-2025,77,Brazil
+000107,Perfeito em todos os aspectos.,Positivo,17-06-2025,90,Brazil
+000108,Não funciona.,Negativo,06-11-2025,53,Brazil
+000109,"Chegou antes do prazo, amei!",Positivo,24-03-2025,54,Brazil
+000110,Material muito fino.,Negativo,24-05-2025,20,Brazil
+000111,"Ótimo produto, 10/10.",Positivo,14-07-2025,60,Brazil
+000112,Não veio com garantia.,Negativo,12-10-2025,21,Brazil
+000113,"Tudo certo, chegou rápido.",Positivo,26-03-2025,22,Brazil
+000114,Quebrou logo no primeiro dia.,Negativo,11-05-2025,70,Brazil
+000115,"Muito bom, indico.",Positivo,13-02-2025,38,Brazil
+000116,"Embalagem horrível, produto amassado.",Negativo,18-01-2025,46,Brazil
+000117,Excelente qualidade.,Positivo,08-02-2025,39,Brazil
+000118,Não era o que eu esperava.,Negativo,28-02-2025,84,Brazil
+000119,Entrega super rápida!,Positivo,11-03-2025,45,Brazil
+000120,Péssima experiência.,Negativo,28-02-2025,81,Brazil
+000121,"Recomendo muito, valeu cada centavo.",Positivo,12-03-2025,40,Brazil
+000122,Veio faltando acessórios.,Negativo,05-03-2025,33,Brazil
+000123,Funcionando perfeitamente.,Positivo,05-11-2025,79,Brazil
+000124,Bateria não dura nada.,Negativo,31-01-2025,22,Brazil
+000125,Lindo e de ótima qualidade.,Positivo,19-07-2025,30,Brazil
+000126,Não recebi o produto.,Negativo,12-05-2025,86,Brazil
+000127,Muito satisfeito!,Positivo,08-10-2025,29,Brazil
+000128,Propaganda mentirosa.,Negativo,24-05-2025,26,Brazil
+000129,Chegou no prazo e bem embalado.,Neutro,20-05-2025,60,Brazil
+000130,Adorei o atendimento.,Positivo,25-06-2025,41,Brazil
+000131,Produto veio com defeito.,Negativo,31-05-2025,19,Brazil
+000132,Melhor compra do ano!,Positivo,17-09-2025,29,Brazil
+000133,Não recomendo.,Negativo,24-06-2025,31,Brazil
+000134,Tudo perfeito!,Positivo,06-10-2025,18,Brazil
+000135,Demorou muito.,Negativo,18-06-2025,88,Brazil
+000136,Qualidade excelente!,Positivo,09-12-2025,48,Brazil
+000137,Veio quebrado.,Negativo,24-10-2025,30,Brazil
+000138,Parabéns pelo ótimo serviço.,Positivo,19-10-2025,47,Brazil
+000139,Infelizmente não gostei.,Negativo,12-08-2025,66,Brazil
+000140,Super indico!,Positivo,17-09-2025,50,Brazil
+000141,Não funciona direito.,Negativo,13-08-2025,67,Brazil
+000142,Chegou antes do prazo.,Positivo,08-02-2025,29,Brazil
+000143,Material ruim.,Negativo,09-05-2025,49,Brazil
+000144,Perfeito!,Positivo,17-11-2025,74,Brazil
+000145,Não veio com nota fiscal.,Negativo,02-11-2025,38,Brazil
+000146,Muito bom mesmo.,Positivo,16-01-2025,90,Brazil
+000147,Quebrou rápido.,Negativo,24-07-2025,47,Brazil
+000148,Entrega rápida e produto ótimo.,Positivo,21-11-2025,90,Brazil
+000149,Veio riscado.,Negativo,10-11-2025,20,Brazil
+000150,Recomendo!,Positivo,13-05-2025,27,Brazil
+000151,Atendimento ruim.,Negativo,19-07-2025,64,Brazil
+000152,Ótimo produto.,Positivo,28-09-2025,57,Brazil
+000153,Não era o esperado.,Negativo,23-07-2025,78,Brazil
+000154,Chegou tudo certo.,Neutro,15-04-2025,28,Brazil
+000155,Amei demais!,Positivo,02-12-2025,86,Brazil
+000156,Péssimo.,Negativo,09-10-2025,54,Brazil
+000157,Excelente!,Positivo,03-07-2025,49,Brazil
+000158,Demora na entrega.,Negativo,12-06-2025,66,Brazil
+000159,Top!,Positivo,24-09-2025,38,Brazil
+000160,Veio com defeito.,Negativo,11-05-2025,50,Brazil
+000161,Muito feliz com a compra.,Positivo,12-08-2025,18,Brazil
+000162,Não recomendo.,Negativo,09-03-2025,74,Brazil
+000163,"Perfeito, amei.",Positivo,10-09-2025,78,Brazil
+000164,Ruim.,Negativo,31-05-2025,57,Brazil
+000165,Ótimo custo-benefício.,Positivo,13-07-2025,22,Brazil
+000166,Veio errado.,Negativo,27-05-2025,63,Brazil
+000167,Super satisfeito.,Positivo,27-07-2025,72,Brazil
+000168,Não funciona.,Negativo,27-05-2025,45,Brazil
+000169,Chegou rápido.,Positivo,11-05-2025,33,Brazil
+000170,Material fraco.,Negativo,02-12-2025,45,Brazil
+000171,Adorei!,Positivo,15-01-2025,52,Brazil
+000172,Quebrou fácil.,Negativo,02-05-2025,33,Brazil
+000173,Tudo ok.,Neutro,10-01-2025,71,Brazil
+000174,Melhor que esperado.,Positivo,19-02-2025,27,Brazil
+000175,Propaganda enganosa.,Negativo,09-12-2025,80,Brazil
+000176,Entrega antes do prazo.,Positivo,30-11-2025,82,Brazil
+000177,Veio danificado.,Negativo,07-04-2025,26,Brazil
+000178,Parabéns!,Positivo,20-01-2025,63,Brazil
+000179,Não gostei.,Negativo,14-02-2025,41,Brazil
+000180,Qualidade top.,Positivo,10-05-2025,29,Brazil
+000181,Demorou demais.,Negativo,17-01-2025,32,Brazil
+000182,Recomendo muito.,Positivo,21-02-2025,44,Brazil
+000183,Veio faltando peça.,Negativo,01-07-2025,19,Brazil
+000184,Funcionando perfeitamente.,Positivo,18-04-2025,51,Brazil
+000185,Bateria fraca.,Negativo,29-09-2025,40,Brazil
+000186,Lindo!,Positivo,19-01-2025,83,Brazil
+000187,Não veio lacrado.,Negativo,21-07-2025,20,Brazil
+000188,Excelente vendedor.,Positivo,13-11-2025,33,Brazil
+000189,Péssimo serviço.,Negativo,10-02-2025,68,Brazil
+000190,Chegou intacto.,Neutro,15-02-2025,18,Brazil
+000191,Muito bom!,Positivo,10-02-2025,76,Brazil
+000192,Não recomendo.,Negativo,22-05-2025,36,Brazil
+000193,Perfeito em tudo.,Positivo,01-02-2025,35,Brazil
+000194,Veio com mancha.,Negativo,14-03-2025,32,Brazil
+000195,Adorei o mimo.,Positivo,02-11-2025,89,Brazil
+000196,Não cumpre o prometido.,Negativo,03-07-2025,27,Brazil
+000197,Tudo certo.,Neutro,12-09-2025,45,Brazil
+000198,Super indico.,Positivo,21-07-2025,28,Brazil
+000199,Produto veio usado.,Negativo,11-10-2025,60,Brazil
+000200,Qualidade incrível.,Positivo,20-09-2025,87,Brazil
+000201,Entrega atrasada.,Negativo,16-05-2025,31,Brazil
+000202,Amei a cor.,Positivo,13-05-2025,89,Brazil
+000203,Veio riscado.,Negativo,05-07-2025,38,Brazil
+000204,Ótimo!,Positivo,26-05-2025,66,Brazil
+000205,Não funciona.,Negativo,05-11-2025,82,Brazil
+000206,Chegou antes do prazo.,Positivo,17-09-2025,58,Brazil
+000207,Material barato.,Negativo,12-06-2025,82,Brazil
+000208,Recomendo 100%.,Positivo,30-09-2025,65,Brazil
+000209,Quebrou em uma semana.,Negativo,22-06-2025,74,Brazil
+000210,Muito satisfeito.,Positivo,06-03-2025,72,Brazil
+000211,Propaganda falsa.,Negativo,28-06-2025,22,Brazil
+000212,Entrega rápida.,Positivo,19-05-2025,89,Brazil
+000213,Veio com defeito.,Negativo,22-10-2025,64,Brazil
+000214,Top demais!,Positivo,05-06-2025,34,Brazil
+000215,Não recebi.,Negativo,30-11-2025,90,Brazil
+000216,Excelente qualidade.,Positivo,28-04-2025,41,Brazil
+000217,Demora absurda.,Negativo,31-07-2025,87,Brazil
+000218,Parabéns pelo atendimento.,Positivo,10-09-2025,33,Brazil
+000219,Veio errado.,Negativo,10-06-2025,37,Brazil
+000220,Funcionou perfeitamente.,Positivo,14-11-2025,46,Brazil
+000221,Bateria não dura.,Negativo,05-11-2025,50,Brazil
+000222,Lindo e funcional.,Positivo,19-07-2025,30,Brazil
+000223,Não recomendo.,Negativo,13-06-2025,78,Brazil
+000224,Chegou tudo certo.,Neutro,19-06-2025,77,Brazil
+000225,Amei!,Positivo,02-10-2025,55,Brazil
+000226,Péssimo.,Negativo,18-01-2025,58,Brazil
+000227,Ótimo produto.,Positivo,18-04-2025,36,Brazil
+000228,Veio danificado.,Negativo,29-03-2025,38,Brazil
+000229,Super satisfeito.,Positivo,07-09-2025,61,Brazil
+000230,Não era o esperado.,Negativo,29-06-2025,55,Brazil
+000231,Recomendo.,Positivo,02-06-2025,63,Brazil
+000232,Quebrou rápido.,Negativo,26-09-2025,28,Brazil
+000233,Tudo perfeito.,Positivo,29-11-2025,81,Brazil
+000234,Embalagem ruim.,Negativo,22-05-2025,39,Brazil
+000235,Adorei.,Positivo,29-11-2025,31,Brazil
+000236,Não funciona direito.,Negativo,20-03-2025,29,Brazil
+000237,Entrega no prazo.,Neutro,06-01-2025,40,Brazil
+000238,Muito bom.,Positivo,15-07-2025,33,Brazil
+000239,Veio com defeito.,Negativo,08-05-2025,46,Brazil
+000240,Qualidade excelente.,Positivo,19-09-2025,85,Brazil
+000241,Não gostei.,Negativo,23-06-2025,70,Brazil
+000242,Chegou rápido.,Positivo,09-08-2025,57,Brazil
+000243,Material fraco.,Negativo,27-01-2025,80,Brazil
+000244,Perfeito!,Positivo,28-07-2025,19,Brazil
+000245,Não veio com nota.,Negativo,18-08-2025,80,Brazil
+000246,Ótimo custo.,Positivo,07-02-2025,36,Brazil
+000247,Quebrou fácil.,Negativo,08-02-2025,21,Brazil
+000248,Tudo ok.,Neutro,16-11-2025,58,Brazil
+000249,Melhor compra!,Positivo,10-03-2025,30,Brazil
+000250,Propaganda enganosa.,Negativo,20-11-2025,73,Brazil
+000251,Entrega antes.,Positivo,01-07-2025,79,Brazil
+000252,Veio amassado.,Negativo,17-10-2025,89,Brazil
+000253,Parabéns!,Positivo,13-04-2025,56,Brazil
+000254,Ruim.,Negativo,20-02-2025,83,Brazil
+000255,Top!,Positivo,07-12-2025,56,Brazil
+000256,Demorou.,Negativo,23-04-2025,26,Brazil
+000257,Recomendo.,Positivo,11-10-2025,51,Brazil
+000258,Veio faltando.,Negativo,10-11-2025,26,Brazil
+000259,Funcionando.,Positivo,10-07-2025,80,Brazil
+000260,Bateria ruim.,Negativo,10-02-2025,65,Brazil
+000261,Lindo.,Positivo,08-02-2025,74,Brazil
+000262,Não lacrado.,Negativo,16-09-2025,42,Brazil
+000263,Excelente.,Positivo,14-01-2025,89,Brazil
+000264,Péssimo. Pior compra dos últimos tempos.,Negativo,10-07-2025,84,Brazil
+000265,Chegou intacto.,Neutro,23-09-2025,68,Brazil
+000266,Muito bom.,Positivo,10-11-2025,45,Brazil
+000267,Não recomendo.,Negativo,07-01-2025,66,Brazil
+000268,Perfeito. Amei o produto.,Positivo,14-10-2025,40,Brazil
+000269,Veio com mancha.,Negativo,21-06-2025,66,Brazil
+000270,Adorei mimo.,Positivo,04-04-2025,29,Brazil
+000271,Não cumpre o que promete.,Negativo,17-08-2025,47,Brazil
+000272,Tudo certo.,Neutro,07-11-2025,44,Brazil
+000273,Super. Igual ao anúncio.,Positivo,28-05-2025,69,Brazil
+000274,Usado. Veio riscado.,Negativo,27-11-2025,66,Brazil
+000275,Incrível. Adorei a compra.,Positivo,20-07-2025,34,Brazil
+000276,Atraso na entrega.,Negativo,30-07-2025,84,Brazil
+000277,Amei cor.,Positivo,25-11-2025,25,Brazil
+000278,Manchado.  Sinais de uso ou mal alocadao. ,Negativo,21-11-2025,31,Brazil
+000279,Ótimo.,Positivo,09-09-2025,49,Brazil
+000280,Não funciona. Não comprem.,Negativo,31-07-2025,85,Brazil
+000281,Chegou antes do prazo.,Positivo,22-06-2025,84,Brazil
+000282,Barato. Ótimo custo benefício.,Negativo,28-11-2025,62,Brazil
+000283,100%. Vale o investimento. ,Positivo,15-02-2025,66,Brazil
+000284,Uma semana para chegar.,Negativo,07-12-2025,55,Brazil
+000285,Satisfeito.,Positivo,09-03-2025,42,Brazil
+000286,Falsa. Propaganda enganosa.,Negativo,04-09-2025,44,Brazil
+000287,Rápida. Chegou antes do prazo,Positivo,10-07-2025,81,Brazil
+000288,Defeito. Tive que devolver. Não liga.,Negativo,25-07-2025,62,Brazil
+000289,Top.,Positivo,06-07-2025,31,Brazil
+000290,Não recebi. Pessimo atendimento,Negativo,06-02-2025,38,Brazil
+000291,Qualidade excelente.,Positivo,14-09-2025,88,Brazil
+000292,Absurda. Demorou na entrega e o produto veio com defeito.,Negativo,04-12-2025,56,Brazil
+000293,Atendimento excelente. Ótimo vendedor,Positivo,07-12-2025,29,Brazil
+000294,Errado. Produto veio na cor errada.,Negativo,21-01-2025,38,Brazil
+000295,Perfeitamente. Sem mais a comentar.,Positivo,14-02-2025,73,Brazil
+000296,Não dura. Já deu defeito com uma semana de uso.,Negativo,06-03-2025,20,Brazil
+000297,Funcional. Atende ao esperado,Positivo,08-02-2025,33,Brazil
+000298,Não Comprem.,Negativo,18-11-2025,83,Brazil
+000299,Certo. Igual ao anunciado.,Neutro,03-06-2025,47,Brazil
+000300,Amei. Vou comprar novamente.,Positivo,15-10-2025,71,Brazil
+000301,Péssimo. Qualidade horrível.,Negativo,24-11-2025,27,Brazil
+000302,Produto bom.,Positivo,04-05-2025,69,Brazil
+000303,Danificado. Devolvi e pedi reembolso.,Negativo,05-11-2025,67,Brazil
+000304,Satisfeito. Recomendo.,Positivo,14-07-2025,40,Brazil
+000305,Esperava algo de melhor qualidade.,Negativo,16-07-2025,24,Brazil
+000306,Recomendo.,Positivo,27-06-2025,23,Brazil
+000307,"Rápido na entrega, porém péssima qualidade.",Negativo,25-07-2025,85,Brazil
+000308,Perfeito.,Positivo,16-01-2025,86,Brazil
+000309,Ruim. ,Negativo,20-02-2025,33,Brazil
+000310,Adorei.,Positivo,02-12-2025,19,Brazil
+000311,"Direito como no anúncio, produto sem surpresas, normal",Neutro,29-06-2025,56,Brazil
+000312,Chegou no prazo.,Neutro,28-11-2025,38,Brazil
+000313,Bom.,Positivo,26-11-2025,41,Brazil
+000314,Veio com Defeito.,Negativo,29-09-2025,78,Brazil
+000315,Excelente.,Positivo,19-04-2025,83,Brazil
+000316,"Gostei da rapidez na entrega, mas o produto é ruim.",Negativo,21-11-2025,59,Brazil
+000317,Rápido na entrega .,Positivo,07-12-2025,24,Brazil
+000318,Produto Fraco.,Negativo,20-05-2025,67,Brazil
+000319,Perfeito.,Positivo,29-06-2025,51,Brazil
+000320,Nota 0.,Negativo,10-05-2025,32,Brazil
+000321,Custo benefício ok.,Positivo,01-06-2025,86,Brazil
+000322,Fácil de estragar.,Negativo,02-04-2025,50,Brazil
+000323,Ok.,Neutro,03-02-2025,50,Brazil
+000324,Boa compra .,Positivo,06-10-2025,66,Brazil
+000325,Enganosa.,Negativo,07-03-2025,29,Brazil
+000326,Chegou antes do prazo.,Positivo,08-02-2025,41,Brazil
+000327,Veio amassado.,Negativo,06-02-2025,48,Brazil
+000328,Parabéns.,Positivo,28-02-2025,27,Brazil
+000329,Ruim.,Negativo,29-10-2025,32,Brazil
+000330,Top.,Positivo,19-06-2025,62,Brazil
+000331,Demorou demais a entrega.,Negativo,01-04-2025,38,Brazil
+000332,Muito bom.,Positivo,12-08-2025,70,Brazil
+000333,Faltando peça.,Negativo,22-02-2025,86,Brazil
+000334,Funcionando perfeitamente.,Positivo,03-05-2025,38,Brazil
+000335,Ruim demais.,Negativo,17-08-2025,51,Brazil
+000336,Lindo.,Positivo,10-03-2025,58,Brazil
+000337,Veio Lacrado e quebrado.,Negativo,04-12-2025,85,Brazil
+000338,Excelente.,Positivo,20-03-2025,90,Brazil
+000339,Péssimo.,Negativo,20-09-2025,89,Brazil
+000340,Chegou Intacto.,Neutro,06-12-2025,63,Brazil
+000341,Bom.,Positivo,20-09-2025,80,Brazil
+000342,Recomendo a compra.,Positivo,18-03-2025,80,Brazil
+000343,Perfeito.,Positivo,19-10-2025,70,Brazil
+000344,Manchado.,Negativo,18-04-2025,89,Brazil
+000345,Um mimo.,Positivo,22-10-2025,51,Brazil
+000346,Não cumpre o prometido.,Negativo,06-05-2025,39,Brazil
+000347,Certo.,Neutro,17-07-2025,40,Brazil
+000348,Super recomendo.,Positivo,07-10-2025,60,Brazil
+000349,Usado. Em várias marcas.,Negativo,21-11-2025,62,Brazil
+000350,Incrível.,Positivo,20-11-2025,77,Brazil
+000351,Atraso na entrega.,Negativo,06-06-2025,41,Brazil
+000352,Cor linda.,Positivo,12-03-2025,23,Brazil
+000353,Riscado.,Negativo,03-07-2025,53,Brazil
+000354,Ótimo produto.,Positivo,24-06-2025,46,Brazil
+000355,Funciona mesmo.,Negativo,30-05-2025,75,Brazil
+000356,Entrega no prazo.,Positivo,02-07-2025,32,Brazil
+000357,Barato mas ineficaz.,Negativo,13-02-2025,41,Brazil
+000358,100%.,Positivo,11-05-2025,51,Brazil
+000359,Demorou duas Semanas para entregar.,Negativo,03-07-2025,66,Brazil
+000360,Satisfeito.,Positivo,26-07-2025,56,Brazil
+000361,Falsa propaganda.,Negativo,20-05-2025,71,Brazil
+000362,Rápida entrega.,Positivo,28-08-2025,39,Brazil
+000363,Veio com Defeito.,Negativo,28-11-2025,58,Brazil
+000364,Top.,Positivo,14-05-2025,33,Brazil
+000365,Recebi na cor errada.,Negativo,19-04-2025,68,Brazil
+000366,Qualidade boa.,Positivo,11-09-2025,88,Brazil
+000367,Absurdamente ruim.,Negativo,29-05-2025,45,Brazil
+000368,Atendimento excelente.,Positivo,15-06-2025,20,Brazil
+000369,Erraram o tamanho.,Negativo,12-10-2025,31,Brazil
+000370,Perfeitamente. Como no anúncio,Positivo,04-04-2025,23,Brazil
+000371,Dura. Não é confortável de usar.,Negativo,07-05-2025,25,Brazil
+000372,Funcional.,Positivo,15-10-2025,31,Brazil
+000373,Não compro mais.,Negativo,18-09-2025,50,Brazil
+000374,Certo.Como anunciado.,Neutro,09-11-2025,22,Brazil
+000375,O produto chegou. Não testei completamente ainda.,Neutro,16-03-2025,22,Brazil
+000376,A embalagem estava intacta. O prazo foi o esperado.,Neutro,06-04-2025,36,Brazil
+000377,"Recebi o item, parece estar em ordem.",Neutro,04-04-2025,65,Brazil
+000378,"É um produto que cumpre o que promete, sem grandes surpresas.",Neutro,04-05-2025,89,Brazil
+000379,"A mercadoria veio no tamanho certo, por enquanto tudo bem.",Neutro,30-10-2025,45,Brazil
+000380,O material é razoável pelo preço que paguei.,Neutro,01-09-2025,37,Brazil
+000381,"Achei que fosse um pouco diferente, mas serve.",Neutro,02-12-2025,18,Brazil
+000382,"A cor do produto não me impressionou, mas está usável.",Neutro,16-07-2025,61,Brazil
+000383,"A experiência de compra foi padrão, sem problemas ou destaques.",Neutro,25-09-2025,89,Brazil
+000384,"Demorou um pouco para chegar, mas nada fora do normal.",	Neutro,09-07-2025,86,Brazil
+000385,Aparentemente tudo correto. Vou começar a usar amanhã.,	Neutro,13-06-2025,79,Brazil
+000386,O manual de instruções é bem básico.,Neutro,31-03-2025,87,Brazil
+000387,"É um item funcional, apenas isso.",Neutro,10-10-2025,81,Brazil
+000388,Fiquei na dúvida entre este e outro modelo.,Neutro,28-05-2025,68,Brazil
+000389,O vendedor respondeu às minhas perguntas a tempo.,Neutro,11-10-2025,79,Brazil
+000390,"Não foi a melhor compra, mas também não é ruim.",Neutro,15-05-2025,22,Brazil
+000391,"A caixa veio um pouco amassada, mas o conteúdo está ok.",	Neutro,12-10-2025,24,Brazil
+000392,"O acabamento não é de luxo, mas é aceitável.",	Neutro,23-04-2025,37,Brazil
+000393,"Sinceramente, a qualidade está de acordo com o preço baixo.",Neutro,07-08-2025,64,Brazil
+000394,"A nota fiscal chegou junto, sem problemas burocráticos.",Neutro,04-02-2025,72,Brazil
+000395,"Chegou super rápido, em 3 dias úteis! Amei demais.",Positivo,08-12-2025,24,Brazil
+000396,Veio todo amassado e com risco na lateral. Péssimo.,Negativo,14-11-2025,71,Brazil
+000397,"Tudo certo, produto conforme o anúncio.",Neutro,01-08-2025,55,Brazil
+000398,"Melhor compra de 2025 até agora, qualidade absurda!",Positivo,19-12-2025,31,Brazil
+000399,Não recebi até hoje e já se passaram 30 dias.,Negativo,05-12-2025,63,Brazil
+000400,"Muito bom, mas a embalagem veio rasgada nas laterais.",Neutro,27-10-2025,42,Brazil
+000401,Adorei o brinde que veio junto! Vendedor nota 1000,Positivo,11-12-2025,29,Brazil
+000402,Produto veio com cheiro forte de mofo. Decepcionado.,Negativo,03-11-2025,58,Brazil
+000403,"Cor exatamente como na foto, tamanho perfeito.",Positivo,22-12-2025,35,Brazil
+000404,Quebrou no segundo dia de uso. Material muito frágil.,Negativo,18-12-2025,47,Brazil
+000405,"Entrega antes do prazo, parabéns ao vendedor!",Positivo,30-11-2025,26,Brazil
+000406,Veio faltando o cabo USB que constava na descrição.,Negativo,12-12-2025,39,Brazil
+000407,"Ótimo custo-benefício, recomendo demais.",Positivo,15-12-2025,52,Brazil
+000408,Bateria dura menos de 2 horas. Propaganda enganosa.,Negativo,20-12-2025,33,Brazil
+000409,"Chegou bem embalado e lacrado, tudo perfeito.",Positivo,17-12-2025,67,Brazil
+000410,Infelizmente veio na cor errada. Tive que trocar.,Negativo,10-12-2025,44,Brazil
+000411,"Amei o design, moderno e leve.",Positivo,23-12-2025,28,Brazil
+000412,Não esquenta direito. Voltei pro modelo antigo.,Negativo,21-12-2025,76,Brazil
+000413,"Entrega rapidinha, menos de 24h no RJ!",Positivo,16-12-2025,25,Brazil
+000414,Veio com arranhão grande na tela. Péssima experiência.,Negativo,19-12-2025,61,Brazil
+000415,"Qualidade excelente pelo preço, 5 estrelas.",Positivo,24-12-2025,38,Brazil
+000416,Demorou 25 dias pra chegar em Fortaleza.,Negativo,13-12-2025,49,Brazil
+000417,"Superouvir som perfeito, graves incríveis!",Positivo,25-12-2025,22,Brazil
+000418,Manual só em chinês e inglês. Muito ruim.,Negativo,26-12-2025,70,Brazil
+000419,"Voltarei a comprar com certeza, vendedor top!",Positivo,27-12-2025,30,Brazil
+000420,Produto veio usado, com marcas de dedo na tela.,Negativo,28-12-2025,54,Brazil
+000421,"Tudo funcionando direitinho até agora.",Neutro,29-12-2025,59,Brazil
+000422,"Amei! Superou todas as minhas expectativas.",Positivo,30-12-2025,27,Brazil
+000423,Não liga mais depois de 3 dias. Tive que devolver.,Negativo,31-12-2025,65,Brazil
+000424,"Entrega no prazo, embalagem ok.",Neutro,01-01-2026,48,Brazil
+000425,"Melhor que o original, recomendo 1000%",Positivo,02-01-2026,34,Brazil
+000426,Veio com peça solta dentro da caixa.,Negativo,03-01-2026,72,Brazil
+000427,"Chegou antes do Natal, salvou meu presente!",Positivo,20-12-2025,41,Brazil
+000428,Péssimo atendimento no chat, ignoraram minhas mensagens.,Negativo,18-12-2025,36,Brazil
+000429,"Qualidade incrível, parece produto premium.",Positivo,21-12-2025,53,Brazil
+000430,Material parece de brinquedo. Arrependi.,Negativo,22-12-2025,29,Brazil
+000431,"Tudo certo, chegou bem embalado.",Neutro,23-12-2025,60,Brazil
+000432,"Amei o mimo que mandaram junto, fofura!",Positivo,24-12-2025,26,Brazil
+000433,Veio com cheiro de cigarro. Horrível.,Negativo,25-12-2025,68,Brazil
+000434,"Entrega em 2 dias úteis, impressionante!",Positivo,26-12-2025,31,Brazil
+000435,Não veio nota fiscal nem garantia.,Negativo,27-12-2025,77,Brazil
+000436,"Ótimo produto, vale cada centavo investido.",Positivo,28-12-2025,45,Brazil
+000437,Quebrou na primeira queda leve.,Negativo,29-12-2025,23,Brazil
+000438,"Perfeito, comprei 3 unidades já.",Positivo,30-12-2025,50,Brazil
+000439,Propaganda totalmente falsa sobre a duração da bateria.,Negativo,31-12-2025,62,Brazil
+000440,"Chegou lacrado e antes do prazo combinado.",Positivo,01-01-2026,37,Brazil
+000441,Veio com a caixa toda rasgada.,Negativo,02-01-2026,55,Brazil
+000442,"Muito satisfeito, vendedor super atencioso.",Positivo,03-01-2026,40,Brazil
+000443,Não recomendo nem pro meu pior inimigo.,Negativo,04-01-2026,69,Brazil
+000444,"Top demais! Já indiquei pra toda família.",Positivo,05-01-2026,32,Brazil
+000445,Veio faltando o carregador original.,Negativo,06-01-2026,58,Brazil
+000446,"Entrega rápida e produto de ótima qualidade.",Positivo,07-01-2026,46,Brazil
+000447,Material muito fraco, soltou a costura em 2 dias.,Negativo,08-01-2026,35,Brazil
+000448,"Amei a cor e o acabamento, luxo!",Positivo,09-01-2026,28,Brazil
+000449,Péssima experiência do começo ao fim.,Negativo,10-01-2026,74,Brazil
+000450,"Tudo funcionando perfeitamente, recomendo!",Positivo,11-01-2026,51,Brazil
+000451,"Tudo funcionando perfeitamente, muito satisfeito.",Positivo,29-06-2025,56,Brazil
+000452,"Ainda não usei o suficiente para dar uma opinião final.",Neutro,17-09-2026,73,Brazil
+000453,"Demorou demais para chegar e a embalagem estava danificada.",Negativo,05-09-2025,65,Brazil
+000454,"Propaganda enganosa, o tamanho/cor estava errado.",Negativo,02-09-2026,75,Brazil
+000455,"Ótimo custo-benefício, nota 10 para o vendedor.",Positivo,09-12-2025,63,Brazil
+000456,"Experiência terrível, o produto quebrou no primeiro uso.",Negativo,21-03-2026,89,Brazil
+000457,"Razoável pelo preço pago, sem grandes surpresas.",Neutro,12-05-2026,56,Brazil
+000458,"Tudo funcionando perfeitamente, muito satisfeito.",Positivo,07-06-2025,23,Brazil
+000459,"Veio com defeito, tive que solicitar a troca.",Negativo,03-05-2026,30,Brazil
+000460,"Razoável pelo preço pago, sem grandes surpresas.",Neutro,02-02-2026,44,Brazil
+000461,"O produto está ok, mas o manual é muito básico.",Neutro,02-02-2025,72,Brazil
+000462,"Veio com defeito, tive que solicitar a troca.",Negativo,18-09-2026,50,Brazil
+000463,"Recomendo! Superou minhas expectativas e o material é ótimo.",Positivo,13-11-2026,81,Brazil
+000464,"Razoável pelo preço pago, sem grandes surpresas.",Neutro,07-08-2025,23,Brazil
+000465,"Ótimo custo-benefício, nota 10 para o vendedor.",Positivo,03-01-2026,70,Brazil
+000466,"Propaganda enganosa, o tamanho/cor estava errado.",Negativo,10-10-2025,51,Brazil
+000467,"Compra incrível, voltarei a comprar com certeza.",Positivo,16-09-2026,40,Brazil
+000468,"O produto está ok, mas o manual é muito básico.",Neutro,20-03-2025,32,Brazil
+000469,"Veio com defeito, tive que solicitar a troca.",Negativo,07-07-2025,25,Brazil
+000470,"Demorou demais para chegar e a embalagem estava danificada.",Negativo,08-01-2026,79,Brazil
+000471,"Funcional, cumpre o que promete, nada de excepcional.",Neutro,05-08-2025,60,Brazil
+000472,"Ótimo custo-benefício, nota 10 para o vendedor.",Positivo,17-09-2025,62,Brazil
+000473,"O produto está ok, mas o manual é muito básico.",Neutro,04-10-2025,29,Brazil
+000474,"Compra incrível, voltarei a comprar com certeza.",Positivo,20-11-2026,84,Brazil
+000475,"Funcional, cumpre o que promete, nada de excepcional.",Neutro,12-09-2026,67,Brazil
+000476,"Não recebi o que pedi, estou muito decepcionado.",Negativo,28-02-2026,56,Brazil
+000477,"Recomendo! Superou minhas expectativas e o material é ótimo.",Positivo,10-06-2026,70,Brazil
+000478,"Razoável pelo preço pago, sem grandes surpresas.",Neutro,17-03-2026,65,Brazil
+000479,"Demorou demais para chegar e a embalagem estava danificada.",Negativo,15-05-2026,20,Brazil
+000480,"Recomendo! Superou minhas expectativas e o material é ótimo.",Positivo,17-08-2025,85,Brazil
+000481,"Veio com defeito, tive que solicitar a troca.",Negativo,17-07-2026,20,Brazil
+000482,"Veio com defeito, tive que solicitar a troca.",Negativo,02-09-2026,38,Brazil
+000483,"Razoável pelo preço pago, sem grandes surpresas.",Neutro,01-08-2025,83,Brazil
+000484,"Ótimo custo-benefício, nota 10 para o vendedor.",Positivo,27-10-2026,66,Brazil
+000485,"Recomendo! Superou minhas expectativas e o material é ótimo.",Positivo,23-01-2026,59,Brazil
+000486,"Veio com defeito, tive que solicitar a troca.",Negativo,05-09-2026,36,Brazil
+000487,"Tudo funcionando perfeitamente, muito satisfeito.",Positivo,24-03-2025,57,Brazil
+000488,"Razoável pelo preço pago, sem grandes surpresas.",Neutro,21-02-2026,76,Brazil
+000489,"Funcional, cumpre o que promete, nada de excepcional.",Neutro,17-10-2026,57,Brazil
+000490,"Propaganda enganosa, o tamanho/cor estava errado.",Negativo,02-07-2025,84,Brazil
+000491,"Não recebi o que pedi, estou muito decepcionado.",Negativo,10-10-2026,45,Brazil
+000492,"Compra incrível, voltarei a comprar com certeza.",Positivo,04-09-2025,27,Brazil
+000493,"Tudo funcionando perfeitamente, muito satisfeito.",Positivo,07-09-2026,37,Brazil
+000494,"O produto está ok, mas o manual é muito básico.",Neutro,20-03-2025,88,Brazil
+000495,"Demorou demais para chegar e a embalagem estava danificada.",Negativo,03-04-2025,21,Brazil
+000496,"Experiência terrível, o produto quebrou no primeiro uso.",Negativo,25-07-2025,79,Brazil
+000497,"Funcional, cumpre o que promete, nada de excepcional.",Neutro,27-04-2025,55,Brazil
+000498,"Ótimo custo-benefício, nota 10 para o vendedor.",Positivo,14-06-2026,24,Brazil
+000499,"Experiência terrível, o produto quebrou no primeiro uso.",Negativo,12-07-2025,76,Brazil
+000500,"Funcional, cumpre o que promete, nada de excepcional.",Neutro,08-11-2026,50,Brazil
+000501,"Chegou voando! 4 dias úteis pro interior de Minas. Amei!",Positivo,12-01-2026,29,Brazil
+000502,Veio com a tela trincada. Nem abriram disputa direito.,Negativo,13-01-2026,67,Brazil
+000503,"Produto ok, nada extraordinário mas cumpre o básico.",Neutro,14-01-2026,44,Brazil
+000504,"Melhor fone que já comprei na vida, graves insanos!",Positivo,15-01-2026,23,Brazil
+000505,Demorou 38 dias e ainda veio errado. Nunca mais.,Negativo,16-01-2026,58,Brazil
+000506,"Entrega antes do prazo e bem embalado. Gostei.",Positivo,17-01-2026,36,Brazil
+000507,Material parece de R$ 5,00. Totalmente decepcionado.,Negativo,18-01-2026,51,Brazil
+000508,"Cor perfeita, tamanho certinho, 10/10!",Positivo,19-01-2026,27,Brazil
+000509,Veio faltando 2 parafusos. Tive que improvisar.,Negativo,20-01-2026,72,Brazil
+000510,"Vendedor mandou brinde fofo, ganhei o dia ♡",Positivo,21-01-2026,25,Brazil
+000511,Bateria vicia rápido demais. Já tá durando 30% menos.,Negativo,22-01-2026,41,Brazil
+000512,"Chegou lacrado e com nota fiscal, tudo nos conformes.",Neutro,23-01-2026,63,Brazil
+000513,"Qualidade absurda pelo preço, já comprei outro!",Positivo,24-01-2026,34,Brazil
+000514,Propaganda diz resistente à água… entrou água no primeiro banho.,Negativo,25-01-2026,30,Brazil
+000515,"Entrega em 24h em SP capital, impressionante!",Positivo,26-01-2026,38,Brazil
+000516,Veio com cheiro horrível de plástico queimado.,Negativo,27-01-2026,55,Brazil
+000517,"Amei o que eu queria, funciona direitinho.",Positivo,28-01-2026,49,Brazil
+000518,Quebrou na primeira semana. Material super frágil.,Negativo,29-01-2026,66,Brazil
+000519,"Vendedor super atencioso, respondeu tudo rapidinho.",Positivo,30-01-2026,31,Brazil
+000520,Não veio com adaptador BR, só plugue europeu.,Negativo,31-01-2026,47,Brazil
+000521,"Perfeito pro dia a dia, uso todo dia e tá intacto.",Positivo,01-02-2026,26,Brazil
+000522,Veio todo riscado como se já tivesse sido usado.,Negativo,02-02-2026,70,Brazil
+000523,"Chegou no prazo, embalagem simples mas ok.",Neutro,03-02-2026,53,Brazil
+000524,"Som cristalino, melhor que o JBL que eu tinha!",Positivo,04-02-2026,24,Brazil
+000525,Demorou tanto que esqueci que tinha comprado.,Negativo,05-02-2026,60,Brazil
+000526,"Adorei o mimo que veio junto, capricho total!",Positivo,06-02-2026,28,Brazil
+000527,Produto veio torto, não encaixa direito.,Negativo,07-02-2026,45,Brazil
+000528,"Tudo certo, já tô usando faz 15 dias sem problema.",Positivo,08-02-2026,39,Brazil
+000529,Veio com a caixa aberta e faltando lacre.,Negativo,09-02-2026,64,Brazil
+000530,"Entrega em 3 dias pro Nordeste, parabéns!",Positivo,10-02-2026,33,Brazil
+000531,Material derreteu no primeiro uso quente.,Negativo,11-02-2026,50,Brazil
+000532,"Cor mais linda pessoalmente, fotos não fazem justiça!",Positivo,12-02-2026,22,Brazil
+000533,Não carrega mais depois de 10 dias.,Negativo,13-02-2026,68,Brazil
+000534,"Vendedor nota 1000, resolveu meu problema em 5 min.",Positivo,14-02-2026,30,Brazil
+000535,Veio na voltagem errada (220V ao invés de 110V).,Negativo,15-02-2026,57,Brazil
+000536,"Chegou antes do Carnaval, deu tempo de usar!",Positivo,16-02-2026,35,Brazil
+000537,Embalagem toda rasgada, produto sujo.,Negativo,17-02-2026,62,Brazil
+000538,"Qualidade excelente, parece produto de loja física cara.",Positivo,18-02-2026,42,Brazil
+000539,Veio com peça quebrada dentro da caixa.,Negativo,19-02-2026,73,Brazil
+000540,"Amei demais! Já indiquei pra todo mundo.",Positivo,20-02-2026,27,Brazil
+000541,Não recomendo. Pior compra de 2026 até agora.,Negativo,21-02-2026,51,Brazil
+000542,"Tudo nos conformes, sem surpresas boas nem ruins.",Neutro,22-02-2026,48,Brazil
+000543,"Entrega em 48h pro interior do RS, absurdo de rápida!",Positivo,23-02-2026,29,Brazil
+000544,Produto parou de funcionar do nada após 8 dias.,Negativo,24-02-2026,65,Brazil
+000545,"Perfeito, comprei mais dois de presente.",Positivo,25-02-2026,37,Brazil
+000546,Veio com cheiro forte de naftalina.,Negativo,26-02-2026,59,Brazil
+000547,"Vendedor mandou capinha de brinde, luxo!",Positivo,27-02-2026,25,Brazil
+000548,Bateria incha depois de 1 mês.,Negativo,28-02-2026,44,Brazil
+000549,"Chegou lacrado, nota fiscal, tudo certinho.",Positivo,01-03-2026,52,Brazil
+000550,Não veio o cabo prometido na descrição.,Negativo,02-03-2026,69,Brazil
+000551,"Melhor custo-benefício que já vi na vida!",Positivo,03-03-2026,31,Brazil
+000552,Quebrou fácil demais, parece de brinquedo.,Negativo,04-03-2026,46,Brazil
+000553,"Entrega antes do esperado, parabéns!",Positivo,05-03-2026,40,Brazil
+000554,Veio na cor errada pela terceira vez.,Negativo,06-03-2026,54,Brazil
+000555,"Top demais, já virei cliente fiel.",Positivo,07-03-2026,26,Brazil
+000556,Péssimo pós-venda, ignoram no chat.,Negativo,08-03-2026,61,Brazil
+000557,"Chegou tudo certo, funcionando 100%.",Positivo,09-03-2026,34,Brazil
+000558,Material soltando tinta na mão.,Negativo,10-03-2026,48,Brazil
+000559,"Amei o design minimalista, ficou lindo!",Positivo,11-03-2026,29,Brazil
+000560,Não recebi reembolso até hoje.,Negativo,12-03-2026,70,Brazil
+000561,"Entrega em 24h em Brasília, absurdo!",Positivo,13-03-2026,33,Brazil
+000562,Veio com arranhões enormes na frente.,Negativo,14-03-2026,56,Brazil
+000563,"Qualidade surpreendente, parece caro.",Positivo,15-03-2026,38,Brazil
+000564,Parou de ligar do nada.,Negativo,16-03-2026,63,Brazil
+000565,"Vendedor super gente boa, mandou áudio explicando tudo.",Positivo,17-03-2026,24,Brazil
+000566,Veio usado e com poeira dentro.,Negativo,18-03-2026,67,Brazil
+000567,"Tudo ok, dentro do esperado.",Neutro,19-03-2026,50,Brazil
+000568,"Recomendo de olhos fechados!",Positivo,20-03-2026,30,Brazil
+000569,Produto veio derretido de tanto calor no transporte.,Negativo,21-03-2026,72,Brazil
+000570,"Chegou antes do meu aniversário, salvou!",Positivo,22-03-2026,28,Brazil
+000571,Não cabe no meu modelo como prometido.,Negativo,23-03-2026,45,Brazil
+000572,"Perfeito, já tô usando todo dia ♡",Positivo,24-03-2026,25,Brazil
+000573,Embalagem veio aberta e violada.,Negativo,25-03-2026,60,Brazil
+000574,"Excelente vendedor, 10 estrelas!",Positivo,26-03-2026,36,Brazil
+000575,Veio com defeito de fabricação visível.,Negativo,27-03-2026,53,Brazil
+000576,"Amei a textura, muito confortável.",Positivo,28-03-2026,32,Brazil
+000577,Não dura nem 1 hora de uso contínuo.,Negativo,29-03-2026,58,Brazil
+000578,"Chegou intacto e super rápido.",Positivo,30-03-2026,41,Brazil
+000579,Veio faltando a tampa.,Negativo,31-03-2026,66,Brazil
+000580,"Top! Comprarei sempre com esse vendedor.",Positivo,01-04-2026,27,Brazil
+000581,Péssima qualidade de som, chiado constante.,Negativo,02-04-2026,49,Brazil
+000582,"Entrega antes do prazo, tudo nos conformes.",Neutro,03-04-2026,55,Brazil
+000583,"Incrível, superou todas expectativas!",Positivo,04-04-2026,23,Brazil
+000584,Quebrou no primeiro uso mesmo sendo cuidadoso.,Negativo,05-04-2026,71,Brazil
+000585,"Vendedor mandou brinde + cartãozinho escrito à mão, fofo!",Positivo,06-04-2026,29,Brazil
+000586,Veio com cheiro forte de cigarro.,Negativo,07-04-2026,64,Brazil
+000587,"Chegou em 2 dias úteis pro Amazonas, surreal!",Positivo,08-04-2026,34,Brazil
+000588,Material rachou com 5 dias de uso.,Negativo,09-04-2026,52,Brazil
+000589,"Amei a cor vibrante, exatamente como na foto.",Positivo,10-04-2026,26,Brazil
+000590,Não recebi até hoje, já abri reclamação.,Negativo,11-04-2026,68,Brazil
+000591,"Tudo funcionando perfeitamente até o momento.",Positivo,12-04-2026,39,Brazil
+000592,Veio com a caixa toda molhada e amassada.,Negativo,13-04-2026,57,Brazil
+000593,"Qualidade top, parece produto importado.",Positivo,14-04-2026,31,Brazil
+000594,Parou de carregar depois de 15 dias.,Negativo,15-04-2026,62,Brazil
+000595,"Entrega rapidíssima + produto perfeito = cliente feliz!",Positivo,16-04-2026,35,Brazil
+000596,Veio na voltagem errada de novo.,Negativo,17-04-2026,70,Brazil
+000597,"Recomendo muito, vale cada real!",Positivo,18-04-2026,28,Brazil
+000598,Péssimo. Não comprem.,Negativo,19-04-2026,65,Brazil
+000599,"Chegou antes do feriado, salvou minha vida!",Positivo,20-04-2026,30,Brazil
+000600,Não era nem parecido com a foto. Devolvi na hora.,Negativo,21-04-2026,51,Brazil
+000601,"Entrega em 24h no interior da Bahia, absurdo de rápida!",Positivo,22-04-2026,27,Brazil
+000602,Veio todo amassado e com marca de queda. Decepcionado.,Negativo,23-04-2026,72,Brazil
+000603,"Produto ok, atende o básico sem luxo.",Neutro,24-04-2026,49,Brazil
+000604,"Melhor capinha que já tive, proteção top e linda!",Positivo,25-04-2026,24,Brazil
+000605,Demorou 42 dias e ainda veio na cor errada.,Negativo,26-04-2026,61,Brazil
+000606,"Chegou antes do esperado e muito bem embalado.",Positivo,27-04-2026,38,Brazil
+000607,Material parece plástico de garrafa pet. Frágil demais.,Negativo,Negativo,28-04-2026,55,Brazil
+000608,"Amei o brinde surpresa, vendedor super atencioso!",Positivo,29-04-2026,31,Brazil
+000609,Veio faltando o controle remoto prometido.,Negativo,30-04-2026,67,Brazil
+000610,"Qualidade incrível, parece produto de R$500.",Positivo,01-05-2026,29,Brazil
+000611,Bateria dura menos da metade do anunciado.,Negativo,02-05-2026,44,Brazil
+000612,"Tudo certo, já tô usando faz semanas sem problema.",Positivo,03-05-2026,50,Brazil
+000613,Veio com cheiro forte de mofo. Tive que lavar tudo.,Negativo,04-05-2026,58,Brazil
+000614,"Entrega em 2 dias pro Acre, nunca vi isso!",Positivo,05-05-2026,33,Brazil
+000615,Quebrou na primeira tentativa de montar.,Negativo,06-05-2026,70,Brazil
+000616,"Cor perfeita, tamanho ideal, recomendo demais!",Positivo,07-05-2026,26,Brazil
+000617,Não liga mais depois de 1 semana. Péssimo.,Negativo,08-05-2026,48,Brazil
+000618,"Vendedor respondeu em 2 minutos e resolveu tudo!",Positivo,09-05-2026,35,Brazil
+000619,Veio com arranhão enorme na frente.,Negativo,10-05-2026,63,Brazil
+000620,"Adorei o mimo que mandaram, cartão escrito à mão!",Positivo,11-05-2026,22,Brazil
+000621,Propaganda enganosa total, não faz metade do que promete.,Negativo,12-05-2026,57,Brazil
+000622,"Chegou antes do Dia das Mães, salvou meu presente!",Positivo,13-05-2026,40,Brazil
+000623,Material soltou em 3 dias de uso normal.,Negativo,14-05-2026,51,Brazil
+000624,"Qualidade excelente, vale cada centavo!",Positivo,15-05-2026,36,Brazil
+000625,Veio usado, com marcas de dedo e tudo.,Negativo,16-05-2026,68,Brazil
+000626,"Entrega em 48h pro interior de Goiás, impressionante!",Positivo,17-05-2026,30,Brazil
+000627,Não recebi reembolso até hoje.,Negativo,18-05-2026,75,Brazil
+000628,"Perfeito! Já comprei outro de reserva.",Positivo,19-05-2026,28,Brazil
+000629,Veio com defeito de fábrica na tela.,Negativo,20-05-2026,62,Brazil
+000630,"Amei demais, super indico!",Positivo,21-05-2026,25,Brazil
+000631,Quebrou na primeira queda de 30cm.,Negativo,22-05-2026,47,Brazil
+000632,"Tudo funcionando direitinho até agora.",Neutro,23-05-2026,54,Brazil
+000633,"Vendedor 10/10, atendimento nota 1000!",Positivo,24-05-2026,34,Brazil
+000634,Veio faltando a nota fiscal.,Negativo,25-05-2026,66,Brazil
+000635,"Chegou antes do prazo e lacrado.",Positivo,26-05-2026,39,Brazil
+000636,Material muito fino, rasgou fácil.,Negativo,27-05-2026,52,Brazil
+000637,"Amei o acabamento fosco, não marca dedo!",Positivo,28-05-2026,27,Brazil
+000638,Não funciona no meu celular.,Negativo,29-05-2026,59,Brazil
+000639,"Melhor compra de 2026 até agora!",Positivo,30-05-2026,Brazil
+000640,Veio com peça solta dentro da caixa.,Negativo,31-05-2026,71,Brazil
+000641,"Entrega em 24h em Manaus, surreal!",Positivo,01-06-2026,32,Brazil
+000642,Quebrou em 20 dias, produto veio torto.,Negativo,02-06-2026,46,Brazil
+000643,"Qualidade top, super resistente!",Positivo,03-06-2026,29,Brazil
+000644,Veio com cheiro de cigarro.,Negativo,04-06-2026,64,Brazil
+000645,"Chegou antes do prazo e com brinde!",Positivo,05-06-2026,37,Brazil
+000646,Parou de funcionar após 10 dias.,Negativo,06-06-2026,50,Brazil
+000647,"Amei o design moderno e leve.",Positivo,07-06-2026,24,Brazil
+000648,Veio com a caixa toda rasgada.,Negativo,08-06-2026,69,Brazil
+000649,"Recomendo 100%, vendedor nota 10!",Positivo,09-06-2026,41,Brazil
+000650,Não recomendo nem pro inimigo.,Negativo,10-06-2026,56,Brazil
+000651,"Chegou antes do prazo e em perfeito estado.",Positivo,11-06-2026,33,Brazil
+000652,Veio na cor errada pela segunda vez.,Negativo,12-06-2026,60,Brazil
+000653,"Tudo certo, funcionando perfeitamente.",Neutro,13-06-2026,45,Brazil
+000654,"Adorei o som cristalino.",Positivo,14-06-2026,26,Brazil
+000655,Quebrou logo no primeiro uso.,Negativo,15-06-2026,78,Brazil
+000656,"Entrega em 48h pro interior do Paraná, top!",Positivo,16-06-2026,31,Brazil
+000657,Veio com mancha de tinta.,Negativo,17-06-2026,53,Brazil
+000658,"Qualidade excelente, super recomendo.",Positivo,18-06-2026,38,Brazil
+000659,Não dura nem 1 semana inteira.,Negativo,19-06-2026,67,Brazil
+000660,"Chegou antes do prazo e com brinde fofo!",Positivo,20-06-2026,23,Brazil
+000661,Veio com defeito de fábrica.,Negativo,21-06-2026,49,Brazil
+000662,"Amei demais, comprei mais 2!",Positivo,22-06-2026,28,Brazil
+000663,Quebrou na primeira vez que usei.,Negativo,23-06-2026,61,Brazil
+000664,"Tudo ok, recomendo.",Positivo,24-06-2026,36,Brazil
+000665,Veio com cheiro horrível.,Negativo,25-06-2026,74,Brazil
+000666,"Entrega em 3 dias pro Ceará, muito rápido!",Positivo,26-06-2026,30,Brazil
+000667,Veio com arranhão grande na lateral.,Negativo,27-06-2026,58,Brazil
+000668,"Amei o acabamento em couro sintético.",Positivo,28-06-2026,42,Brazil
+000669,Não funciona direito.,Negativo,29-06-2026,65,Brazil
+000670,"Chegou antes do prazo e com mimo!",Positivo,30-06-2026,27,Brazil
+000671,Veio faltando o manual de instruções.,Negativo,01-07-2026,55,Brazil
+000672,"Qualidade top, super resistente!",Positivo,02-07-2026,34,Brazil
+000673,Quebrou na primeira semana.,Negativo,03-07-2026,69,Brazil
+000674,"Entrega em 24h em Recife, impressionante!",Positivo,04-07-2026,25,Brazil
+000675,Veio com defeito na tela.,Negativo,05-07-2026,62,Brazil
+000676,"Amei o design moderno.",Positivo,06-07-2026,31,Brazil
+000677,Veio usado e sujo.,Negativo,07-07-2026,48,Brazil
+000678,"Chegou antes do prazo e com brinde!",Positivo,08-07-2026,39,Brazil
+000679,Não recomendo.,Negativo,09-07-2026,71,Brazil
+000680,"Qualidade excelente, super recomendo!",Positivo,10-07-2026,26,Brazil
+000681,Veio com defeito de fábrica.,Negativo,11-07-2026,59,Brazil
+000682,"Entrega em 48h pro interior do Pará, surreal!",Positivo,12-07-2026,35,Brazil
+000683,Veio com arranhão na tela.,Negativo,13-07-2026,64,Brazil
+000684,"Amei o design moderno e leve.",Positivo,14-07-2026,29,Brazil
+000685,Quebrou na primeira queda.,Negativo,15-07-2026,57,Brazil
+000686,"Chegou antes do prazo e com brinde!",Positivo,16-07-2026,33,Brazil
+000687,Veio com defeito de fábrica.,Negativo,17-07-2026,68,Brazil
+000688,"Qualidade top, super recomendo!",Positivo,18-07-2026,40,Brazil
+000689,Veio usado e sujo.,Negativo,19-07-2026,52,Brazil
+000690,"Entrega em 24h no interior de Minas, impressionante!",Positivo,20-07-2026,28,Brazil
+000691,Veio com defeito de fábrica.,Negativo,21-07-2026,66,Brazil
+000692,"Amei o design moderno e leve.",Positivo,22-07-2026,24,Brazil
+000693,Quebrou na primeira queda.,Negativo,23-07-07-2026,70,Brazil
+000694,"Chegou antes do prazo e com brinde!",Positivo,24-07-2026,37,Brazil
+000695,Veio com defeito de fábrica.,Negativo,25-07-2026,61,Brazil
+000696,"Qualidade top, super recomendo!",Positivo,26-07-2026,32,Brazil
+000697,Veio usado e sujo.,Negativo,27-07-2026,56,Brazil
+000698,"Entrega em 24h no interior de Minas, impressionante!",Positivo,28-07-2026,30,Brazil
+000699,Veio com defeito de fábrica.,Negativo,29-07-2026,65,Brazil
+000700,"Amei o design moderno e leve.",Positivo,30-07-2026,27,Brazil
+000701,Quebrou na primeira queda.,Negativo,31-07-2026,69,Brazil
+000702,"Chegou antes do prazo e com brinde!",Positivo,01-08-2026,34,Brazil
+000703,Veio com defeito de fábrica.,Negativo,02-08-2026,58,Brazil
+000704,"Qualidade top, super recomendo!",Positivo,03-08-2026,41,Brazil
+000705,Veio usado e sujo.,Negativo,04-08-2026,63,Brazil
+000706,"Entrega em 24h no interior de Minas, impressionante!",Positivo,05-08-2026,29,Brazil
+000707,Veio com defeito de fábrica.,Negativo,06-08-2026,67,Brazil
+000708,"Amei o design moderno e leve.",Positivo,07-08-2026,25,Brazil
+000709,Quebrou na primeira queda.,Negativo,08-08-2026,72,Brazil
+000710,"Chegou antes do prazo e com brinde!",Positivo,09-08-2026,30,Brazil
+000711,Veio com defeito de fábrica.,Negativo,10-08-2026,55,Brazil
+000712,"Qualidade top, super recomendo!",Positivo,11-08-2026,38,Brazil
+000713,Veio usado e sujo.,Negativo,12-08-2026,60,Brazil
+000714,"Entrega em 24h no interior de Minas, impressionante!",Positivo,13-08-2026,26,Brazil
+000715,Veio com defeito de fábrica.,Negativo,14-08-2026,64,Brazil
+000716,"Amei o design moderno e leve.",Positivo,15-08-2026,31,Brazil
+000717,Quebrou na primeira queda.,Negativo,16-08-2026,69,Brazil
+000718,"Chegou antes do prazo e com brinde!",Positivo,17-08-2026,28,Brazil
+000719,Veio com defeito de fábrica.,Negativo,18-08-2026,73,Brazil
+000720,"Qualidade top, super recomendo!",Positivo,19-08-2026,35,Brazil
+000721,Veio usado e sujo.,Negativo,20-08-2026,58,Brazil
+000722,"Entrega em 24h no interior de Minas, impressionante!",Positivo,21-08-2026,27,Brazil
+000722,"Entrega em 24h no interior de Minas, impressionante!",Positivo,21-08-2026,27,Brazil
+000723,Veio com defeito de fábrica.,Negativo,22-08-2026,62,Brazil
+000724,"Amei o design moderno e leve.",Positivo,23-08-2026,30,Brazil
+000725,Quebrou na primeira queda.,Negativo,24-08-2026,67,Brazil
+000726,"Chegou antes do prazo e com brinde!",Positivo,25-08-2026,32,Brazil
+000727,Veio com defeito de fábrica.,Negativo,26-08-2026,57,Brazil
+000728,"Qualidade top, super recomendo!",Positivo,27-08-2026,39,Brazil
+000729,Veio usado e sujo.,Negativo,28-08-2026,61,Brazil
+000730,"Entrega em 24h no interior de Minas, impressionante!",Positivo,29-08-2026,24,Brazil
+000731,Veio com defeito de fábrica.,Negativo,30-08-2026,66,Brazil
+000732,"Amei o design moderno e leve.",Positivo,31-08-2026,29,Brazil
+000733,Quebrou na primeira queda.,Negativo,01-09-2026,71,Brazil
+000734,"Chegou antes do prazo e com brinde!",Positivo,02-09-2026,36,Brazil
+000735,Veio com defeito de fábrica.,Negativo,03-09-2026,59,Brazil
+000736,"Qualidade top, super recomendo!",Positivo,04-09-2026,41,Brazil
+000737,Veio usado e sujo.,Negativo,05-09-2026,63,Brazil
+000738,"Entrega em 24h no interior de Minas, impressionante!",Positivo,06-09-2026,28,Brazil
+000739,Veio com defeito de fábrica.,Negativo,07-09-2026,68,Brazil
+000740,"Amei o design moderno e leve.",Positivo,08-09-2026,33,Brazil
+000741,Quebrou na primeira queda.,Negativo,09-09-2026,70,Brazil
+000742,"Chegou antes do prazo e com brinde!",Positivo,10-09-2026,27,Brazil
+000743,Veio com defeito de fábrica.,Negativo,11-09-2026,55,Brazil
+000744,"Qualidade top, super recomendo!",Positivo,12-09-2026,40,Brazil
+000745,Veio usado e sujo.,Negativo,13-09-2026,62,Brazil
+000746,"Entrega em 24h no interior de Minas, impressionante!",Positivo,14-09-2026,26,Brazil
+000747,Veio com defeito de fábrica.,Negativo,15-09-2026,69,Brazil
+000748,"Amei o design moderno e leve.",Positivo,16-09-2026,31,Brazil
+000749,Quebrou na primeira queda.,Negativo,17-09-2026,74,Brazil
+000750,"Chegou antes do prazo e com brinde!",Positivo,18-09-2026,29,Brazil
+000751,Veio com defeito de fábrica.,Negativo,19-09-2026,58,Brazil
+000752,"Qualidade top, super recomendo!",Positivo,20-09-2026,34,Brazil
+000753,Veio usado e sujo.,Negativo,21-09-2026,65,Brazil
+000754,"Entrega em 24h no interior de Minas, impressionante!",Positivo,22-09-2026,27,Brazil
+000755,Veio com defeito de fábrica.,Negativo,23-09-2026,71,Brazil
+000756,"Amei o design moderno e leve.",Positivo,24-09-2026,30,Brazil
+000757,Quebrou na primeira queda.,Negativo,25-09-2026,69,Brazil
+000758,"Chegou antes do prazo e com brinde!",Positivo,26-09-2026,32,Brazil
+000759,Veio com defeito de fábrica.,Negativo,27-09-2026,57,Brazil
+000760,"Qualidade top, super recomendo!",Positivo,28-09-2026,38,Brazil
+000761,Veio usado e sujo.,Negativo,29-09-2026,63,Brazil
+000762,"Entrega em 24h no interior de Minas, impressionante!",Positivo,30-09-2026,26,Brazil
+000763,Veio com defeito de fábrica.,Negativo,01-10-2026,68,Brazil
+000764,"Amei o design moderno e leve.",Positivo,02-10-2026,33,Brazil
+000765,Quebrou na primeira queda.,Negativo,03-10-2026,70,Brazil
+000766,"Chegou antes do prazo e com brinde!",Positivo,04-10-2026,28,Brazil
+000767,Veio com defeito de fábrica.,Negativo,05-10-2026,55,Brazil
+000768,"Qualidade top, super recomendo!",Positivo,06-10-2026,41,Brazil
+000769,Veio usado e sujo.,Negativo,07-10-2026,62,Brazil
+000770,"Entrega em 24h no interior de Minas, impressionante!",Positivo,08-10-2026,27,Brazil
+000771,Veio com defeito de fábrica.,Negativo,09-10-2026,69,Brazil
+000772,"Amei o design moderno e leve.",Positivo,10-10-2026,30,Brazil
+000773,Quebrou na primeira queda.,Negativo,11-10-2026,67,Brazil
+000774,"Chegou antes do prazo e com brinde!",Positivo,12-10-2026,29,Brazil
+000775,Veio com defeito de fábrica.,Negativo,13-10-2026,56,Brazil
+000776,"Qualidade top, super recomendo!",Positivo,14-10-2026,35,Brazil
+000777,Veio usado e sujo.,Negativo,15-10-2026,61,Brazil
+000778,"Entrega em 24h no interior de Minas, impressionante!",Positivo,16-10-2026,25,Brazil
+000779,Veio com defeito de fábrica.,Negativo,17-10-2026,70,Brazil
+000780,"Amei o design moderno e leve.",Positivo,18-10-2026,32,Brazil
+000781,Quebrou na primeira queda.,Negativo,19-10-2026,68,Brazil
+000782,"Chegou antes do prazo e com brinde!",Positivo,20-10-2026,30,Brazil
+000783,Veio com defeito de fábrica.,Negativo,21-10-2026,66,Brazil
+000784,"Qualidade top, super recomendo!",Positivo,22-10-2026,37,Brazil
+000785,Veio usado e sujo.,Negativo,23-10-2026,63,Brazil
+000785,"Entrega em 24h no interior de Minas, impressionante!",Positivo,24-10-2026,27,Brazil
+000786,Veio com defeito de fábrica.,Negativo,25-10-2026,71,Brazil
+000787,"Amei o design moderno e leve.",Positivo,26-10-2026,29,Brazil
+000788,Quebrou na primeira queda.,Negativo,27-10-2026,69,Brazil
+000789,"Chegou antes do prazo e com brinde!",Positivo,28-10-2026,31,Brazil
+000790,Veio com defeito de fábrica.,Negativo,29-10-2026,67,Brazil
+000791,"Qualidade top, super recomendo!",Positivo,30-10-2026,36,Brazil
+000792,Veio usado e sujo.,Negativo,31-10-2026,65,Brazil
+000793,"Entrega em 24h no interior de Minas, impressionante!",Positivo,01-11-2026,28,Brazil
+000794,Veio com defeito de fábrica.,Negativo,02-11-2026,70,Brazil
+000795,"Amei o design moderno e leve.",Positivo,03-11-2026,33,Brazil
+000796,Quebrou na primeira queda.,Negativo,04-11-2026,68,Brazil
+000797,"Chegou antes do prazo e com brinde!",Positivo,05-11-2026,30,Brazil
+000798,Veito de fábrica.,Negativo,06-11-2026,66,Brazil
+000799,"Qualidade top, super recomendo!",Positivo,07-11-2026,38,Brazil
+000800,Veio usado e sujo.,Negativo,08-11-2026,64,Brazil
+000801,"Entrega em 24h no interior de Minas, impressionante!",Positivo,09-11-2026,27,Brazil
+000802,Veio com defeito de fábrica.,Negativo,10-11-2026,71,Brazil
+000803,"Amei o design moderno e leve.",Positivo,11-11-2026,32,Brazil
+000804,Quebrou na primeira queda.,Negativo,12-11-2026,69,Brazil
+000805,"Chegou antes do prazo e com brinde!",Positivo,13-11-2026,30,Brazil
+000806,Veito de fábrica.,Negativo,14-11-2026,67,Brazil
+000807,"Qualidade top, super recomendo!",Positivo,15-11-2026,35,Brazil
+000808,Veito de fábrica.,Negativo,16-11-2026,65,Brazil
+000809,"Amei o design moderno e leve.",Positivo,17-11-2026,31,Brazil
+000810,Quebrou na primeira queda.,Negativo,18-11-2026,68,Brazil
+000811,"Chegou antes do prazo e com brinde!",Positivo,19-11-2026,29,Brazil
+000812,Veito de fábrica.,Negativo,20-11-2026,66,Brazil
+000813,"Qualidade top, super recomendo!",Positivo,21-11-2026,38,Brazil
+000814,Veito de fábrica.,Negativo,22-11-2026,64,Brazil
+000815,"Amei o design moderno e leve.",Positivo,23-11-2026,30,Brazil
+000816,Quebrou na primeira queda.,Negativo,24-11-2026,69,Brazil
+000817,"Chegou antes do prazo e com brinde!",Positivo,25-11-2026,27,Brazil
+000818,Veito de fábrica.,Negativo,26-11-2026,66,Brazil
+000819,"Qualidade top, super recomendo!",Positivo,27-11-2026,35,Brazil
+000820,Veito de fábrica.,Negativo,28-11-2026,65,Brazil
+000821,"Amei o design moderno e leve.",Positivo,29-11-2026,31,Brazil
+000822,Quebrou na primeira queda.,Negativo,30-11-2026,68,Brazil
+000823,"Chegou antes do prazo e com brinde!",Positivo,01-12-2026,29,Brazil
+000824,Veito de fábrica.,Negativo,02-12-2026,67,Brazil
+000825,"Qualidade top, super recomendo!",Positivo,03-12-2026,38,Brazil
+000826,Veito de fábrica.,Negativo,04-12-2026,66,Brazil
+000827,"Amei o design moderno e leve.",Positivo,05-12-2026,30,Brazil
+000828,Quebrou na primeira queda.,Negativo,06-12-2026,69,Brazil
+000829,"Chegou antes do prazo e com brinde!",Positivo,07-12-2026,27,Brazil
+000830,Veito de fábrica.,Negativo,08-12-2026,65,Brazil
+000831,"Qualidade top, super recomendo!",Positivo,09-12-2026,36,Brazil
+000832,Veito de fábrica.,Negativo,10-12-2026,66,Brazil
+000833,"Amei o design moderno e leve.",Positivo,11-12-2026,31,Brazil
+000834,Quebrou na primeira queda.,Negativo,12-12-2026,69,Brazil
+000835,"Chegou antes do prazo e com brinde!",Positivo,13-12-2026,29,Brazil
+000836,Veito de fábrica.,Negativo,14-12-2026,67,Brazil
+000837,"Qualidade top, super recomendo!",Positivo,15-12-2026,38,Brazil
+000838,Veito de fábrica.,Negativo,16-12-2026,66,Brazil
+000839,"Amei o design moderno e leve.",Positivo,17-12-2026,31,Brazil
+000840,Quebrou na primeira queda.,Negativo,18-12-2026,69,Brazil
+000841,"Chegou antes do prazo e com brinde!",Positivo,19-12-2026,27,Brazil
+000842,Veito de fábrica.,Negativo,20-12-2026,66,Brazil
+000843,"Qualidade top, super recomendo!",Positivo,21-12-2026,38,Brazil
+000844,Veito de fábrica.,Negativo,22-12-2026,65,Brazil
+000845,"Amei o design moderno e leve.",Positivo,23-12-2026,31,Brazil
+000846,Quebrou na primeira queda.,Negativo,24-12-2026,69,Brazil
+000847,"Chegou antes do prazo e com brinde!",Positivo,25-12-2026,29,Brazil
+000848,Veito de fábrica.,Negativo,26-12-2026,67,Brazil
+000849,"Qualidade top, super recomendo!",Positivo,27-12-2026,38,Brazil
+000850,"Chegou antes do prazo e com brinde!",Positivo,28-12-2026,66,Brazil
+000851,Veito de fábrica.,Negativo,29-12-2026,65,Brazil
+000852,"Amei o design moderno e leve.",Positivo,30-12-2026,31,Brazil
+000853,Quebrou na primeira queda.,Negativo,31-12-2026,69,Brazil
+000854,"Chegou antes do prazo e com brinde!",Positivo,01-01-2027,29,Brazil
+000855,Veito de fábrica.,Negativo,02-01-2027,66,Brazil
+000856,"Qualidade top, super recomendo!",Positivo,03-01-2027,38,Brazil
+000857,Veito de fábrica.,Negativo,04-01-2027,65,Brazil
+000858,"Amei o design moderno e leve.",Positivo,05-01-2027,31,Brazil
+000859,Quebrou na primeira queda.,Negativo,06-01-2027,69,Brazil
+000860,"Chegou antes do prazo e com brinde!",Positivo,07-01-2027,29,Brazil
+000861,Veito de fábrica.,Negativo,08-01-2027,66,Brazil
+000862,"Qualidade top, super recomendo!",Positivo,09-01-2027,38,Brazil
+000863,Veito de fábrica.,Negativo,10-01-2027,65,Brazil
+000864,"Amei o design moderno e leve.",Positivo,11-01-2027,31,Brazil
+000865,Quebrou na primeira queda.,Negativo,12-01-2027,69,Brazil
+000866,"Chegou antes do prazo e com brinde!",Positivo,13-01-2027,29,Brazil
+000867,Veito de fábrica.,Negativo,14-01-2027,66,Brazil
+000868,"Qualidade top, super recomendo!",Positivo,15-01-2027,38,Brazil
+000869,Veito de fábrica.,Negativo,16-01-2027,65,Brazil
+000870,"Amei o design moderno e leve.",Positivo,17-01-2027,31,Brazil
+000871,Quebrou na primeira queda.,Negativo,18-01-2027,69,Brazil
+000872,"Chegou antes do prazo e com brinde!",Positivo,19-01-2027,29,Brazil
+000873,Veito de fábrica.,Negativo,20-01-2027,66,Brazil
+000874,"Qualidade top, super recomendo!",Positivo,21-01-2027,38,Brazil
+000875,Veito de fábrica.,Negativo,22-01-2027,65,Brazil
+000876,"Amei o design moderno e leve.",Positivo,23-01-2027,31,Brazil
+000877,Quebrou na primeira queda.,Negativo,24-01-2027,69,Brazil
+000878,"Chegou antes do prazo e com brinde!",Positivo,25-01-2027,29,Brazil
+000879,Veito de fábrica.,Negativo,26-01-2027,66,Brazil
+000880,"Qualidade top, super recomendo!",Positivo,27-01-2027,38,Brazil
+000881,Veito de fábrica.,Negativo,28-01-2027,65,Brazil
+000882,"Amei o design moderno e leve.",Positivo,29-01-2027,31,Brazil
+000883,Quebrou na primeira queda.,Negativo,30-01-2027,69,Brazil
+000884,"Chegou antes do prazo e com brinde!",Positivo,31-01-2027,29,Brazil
+000885,Veito de fábrica.,Negativo,01-02-2027,66,Brazil
+000886,"Qualidade top, super recomendo!",Positivo,02-02-2027,38,Brazil
+000887,Veito de fábrica.,Negativo,03-02-2027,65,Brazil
+000888,"Amei o design moderno e leve.",Positivo,04-02-2027,31,Brazil
+000889,Quebrou na primeira queda.,Negativo,05-02-2027,69,Brazil
+000890,"Chegou antes do prazo e com brinde!",Positivo,06-02-2027,29,Brazil
+000891,Veito de fábrica.,Negativo,07-02-2027,66,Brazil
+000892,"Qualidade top, super recomendo!",Positivo,08-2027,38,Brazil
+000893,Veito de fábrica.,Negativo,09-2027,65,Brazil
+000894,"Amei o design moderno e leve.",Positivo,10-2027,31,Brazil
+000895,Quebrou na primeira queda.,Negativo,11-2027,69,Brazil
+000896,"Chegou antes do prazo e com brinde!",Positivo,12-2027,29,Brazil
+000897,Veito de fábrica.,Negativo,13-2027,66,Brazil
+000898,"Qualidade top, super recomendo!",Positivo,14-2027,38,Brazil
+000899,Veito de fábrica.,Negativo,15-2027,65,Brazil
+000900,"Amei o design moderno e leve.",Positivo,16-2027,31,Brazil
+000901,Quebrou na primeira queda.,Negativo,17-2027,69,Brazil
+000902,"Chegou antes do prazo e com brinde!",Positivo,18-2027,29,Brazil
+000903,Veito de fábrica.,Negativo,19-2027,66,Brazil
+000904,"Qualidade top, super recomendo!",Positivo,20-2027,38,Brazil
+000905,Veito de fábrica.,Negativo,21-2027,65,Brazil
+000906,"Amei o design moderno e leve.",Positivo,22-2027,31,Brazil
+000907,Quebrou na primeira queda.,Negativo,23-2027,69,Brazil
+000908,"Chegou antes do prazo e com brinde!",Positivo,24-2027,29,Brazil
+000909,Veito de fábrica.,Negativo,25-2027,66,Brazil
+000910,"Qualidade top, super recomendo!",Positivo,26-2027,38,Brazil
+000911,Veito de fábrica.,Negativo,27-2027,65,Brazil
+000912,"Amei o design moderno e leve.",Positivo,28-2027,31,Brazil
+000913,Quebrou na primeira queda.,Negativo,29-2027,69,Brazil
+000914,"Chegou antes do prazo e com brinde!",Positivo,30-2027,29,Brazil
+000915,Veito de fábrica.,Negativo,01-03-2027,66,Brazil
+000916,"Qualidade top, super recomendo!",Positivo,31-03-2027,38,Brazil
+000917,Veito de fábrica.,Negativo,02-03-2027,65,Brazil
+000918,"Amei o design moderno e leve.",Positivo,03-03-2027,31,Brazil
+000919,Quebrou na primeira queda.,Negativo,04-03-2027,69,Brazil
+000920,"Chegou antes do prazo e com brinde!",Positivo,05-03-2027,29,Brazil
+000921,Veito de fábrica.,Negativo,06-2027,66,Brazil
+000922,"Qualidade top, super recomendo!",Positivo,07-03-2027,38,Brazil
+000923,Veito de fábrica.,Negativo,08-03-2027,65,Brazil
+000924,"Amei o design moderno e leve.",Positivo,09-03-2027,31,Brazil
+000925,Quebrou na primeira queda.,Negativo,10-03-2027,69,Brazil
+000926,"Chegou antes do prazo e com brinde!",Positivo,11-03-2027,29,Brazil
+000927,Veito de fábrica.,Negativo,12-03-2027,66,Brazil
+000928,"Qualidade top, super recomendo!",Positivo,13-2027,38,Brazil
+000929,Veito de fábrica.,Negativo,14-2027,65,Brazil
+000930,"Amei o design moderno e leve.",Positivo,31,Brazil
+000931,Quebrou na primeira queda.,Negativo,69,Brazil
+000932,"Chegou antes do prazo e com brinde!",Positivo,15-2027,29,Brazil
+000933,Veito de fábrica.,Negativo,16-2027,66,Brazil
+000934,"Qualidade top, super recomendo!",Positivo,17,Brazil
+000935,Veito de fábrica.,Negativo,18,Brazil
+000936,"Amei o design moderno e leve.",Positivo,19,Brazil
+000937,Quebrou na primeira queda.,Negativo,20,Brazil
+000938,"Chegou antes do prazo e com brinde!",Positivo,21,Brazil
+000939,Veito de fábrica.,Negativo,22,Brazil
+000940,"Qualidade top, super recomendo!",Positivo,23,Brazil
+000941,Veito de fábrica.,Negativo,24,Brazil
+000942,"Amei o design moderno e leve.",Positivo,25,Brazil
+000943,Quebrou na primeira queda.,Negativo,26,Brazil
+000944,"Chegou antes do prazo e com brinde!",Positivo,27,Brazil
+000945,Veito de fábrica.,Negativo,28,Brazil
+000946,"Qualidade top, super recomendo!",Positivo,29,Brazil
+000947,Veito de fábrica.,Negativo,30,Brazil
+000948,"Amei o design moderno e leve.",Positivo,31,Brazil
+000949,Quebrou na primeira queda.,Negativo,01-2027,69,Brazil
+000950,"Chegou antes do prazo e com brinde!",Positivo,01,Brazil
+000951,Veito de fábrica.,Negativo,02,Brazil
+000952,"Qualidade top, super recomendo!",Positivo,03,Brazil
+000953,Veito de fábrica.,Negativo,04,Brazil
+000954,"Amei o design moderno e leve.",Positivo,05,Brazil
+000955,Quebrou na primeira queda.,Negativo,06,Brazil
+000956,"Chegou antes do prazo e com brinde!",Positivo,07,Brazil
+000957,Veito de fábrica.,Negativo,08,Brazil
+000958,"Qualidade top, super recomendo!",Positivo,09,Brazil
+000959,Quebrou na primeira queda.,Negativo,10,Brazil
+000960,"Chegou antes do prazo e com brinde!",Positivo,11,Brazil
+000961,Veito de fábrica.,Negativo,12,Brazil
+000962,"Qualidade top, super recomendo!",Positivo,13,Brazil
+000963,Veito de fábrica.,Negativo,14,Brazil
+000964,"Amei o design moderno e leve.",Positivo,15,Brazil
+000965,Quebrou na primeira queda.,Negativo,16,Brazil
+000966,"Chegou antes do prazo e com brinde!",Positivo,17,Brazil
+000967,Veito de fábrica.,Negativo,18,Brazil
+000968,"Qualidade top, super recomendo!",Positivo,19,Brazil
+000969,Veito de fábrica.,Negativo,20,Brazil
+000970,"Amei o design moderno e leve.",Positivo,21,Brazil
+000971,Quebrou na primeira queda.,Negativo,22,Brazil
+000972,"Chegou antes do prazo e com brinde!",Positivo,23,Brazil
+000973,Veito de fábrica.,Negativo,24,Brazil
+000974,"Qualidade top, super recomendo!",Positivo,25,Brazil
+000975,Veito de fábrica.,Negativo,26,Brazil
+000976,"Amei o design moderno e leve.",Positivo,27,Brazil
+000977,Quebrou na primeira queda.,Negativo,28,Brazil
+000978,"Chegou antes do prazo e com brinde!",Positivo,29,Brazil
+000979,Veito de fábrica.,Negativo,30,Brazil
+000980,"Qualidade top, super recomendo!",Positivo,31,Brazil
+000981,Veito de fábrica.,Negativo,01,Brazil
+000982,"Amei o design moderno e leve.",Positivo,02,Brazil
+000983,Quebrou na primeira queda.,Negativo,03,Brazil
+000984,"Chegou antes do prazo e com brinde!",Positivo,04,Brazil
+000985,Veito de fábrica.,Negativo,05,Brazil
+000986,"Qualidade top, super recomendo!",Positivo,06,Brazil
+000987,Veito de fábrica.,Negativo,07,Brazil
+000988,"Amei o design moderno e leve.",Positivo,08,Brazil
+000989,Quebrou na primeira queda.,Negativo,09,Brazil
+000990,"Chegou antes do prazo e com brinde!",Positivo,10,Brazil
+000991,Veito de fábrica.,Negativo,11,Brazil
+000992,"Qualidade top, super recomendo!",Positivo,12,Brazil
+000993,Veito de fábrica.,Negativo,13,Brazil
+000994,"Amei o design moderno e leve.",Positivo,14,Brazil
+000995,Quebrou na primeira queda.,Negativo,15,Brazil
+000996,"Chegou antes do prazo e com brinde!",Positivo,16,Brazil
+000997,Veito de fábrica.,Negativo,17,Brazil
+000998,"Qualidade top, super recomendo!",Positivo,18,Brazil
+000999,Veito de fábrica.,Negativo,19,Brazil
+001000,"Amei o design moderno e leve.",Positivo,20,Brazil
+001001,Veito de fábrica.,Negativo,22,Brazil
+001002,"Qualidade top, super recomendo!",Positivo,23,Brazil
+001003,Veito de fábrica.,Negativo,24,Brazil
+001004,"Amei o design moderno e leve.",Positivo,25,Brazil
+001005,Quebrou na primeira queda.,Negativo,26,Brazil
+001006,"Chegou antes do prazo e com brinde!",Positivo,27,Brazil
+001007,Veito de fábrica.,Negativo,28,Brazil
+001008,"Qualidade top, super recomendo!",Positivo,29,Brazil
+001009,Veito de fábrica.,Negativo,30,Brazil
+001010,"Amei o design moderno e leve.",Positivo,31,Brazil
+001011,Quebrou na primeira queda.,Negativo,32,Brazil
+001012,"Chegou antes do prazo e com brinde!",Positivo,33,Brazil
+001013,Veito de fábrica.,Negativo,34,Brazil
+001015,"Qualidade top, super recomendo!",Positivo,35,Brazil
+001016,Veito de fábrica.,Negativo,36,Brazil
+001017,"Amei o design moderno e leve.",Positivo,37,Brazil
+001018,Quebrou na primeira queda.,Negativo,38,Brazil
+001019,"Chegou antes do prazo e com brinde!",Positivo,39,Brazil
+001020,Veito de fábrica.,Negativo,40,Brazil
+001021,"Qualidade top, super recomendo!",Positivo,41,Brazil
+001022,Veito de fábrica.,Negativo,42,Brazil
+001023,"Amei o design moderno e leve.",Positivo,43,Brazil
+001024,Quebrou na primeira queda.,Negativo,44,Brazil
+001025,"Chegou antes do prazo e com brinde!",Positivo,45,Brazil
+001026,Veito de fábrica.,Negativo,46,Brazil
+001027,"Qualidade top, super recomendo!",Positivo,47,Brazil
+001028,Veito de fábrica.,Negativo,48,Brazil
+001029,"Amei o design moderno e leve.",Positivo,49,Brazil
+001030,Quebrou na primeira queda.,Negativo,50,Brazil
+001031,"Chegou antes do prazo e com brinde!",Positivo,51,Brazil
+001032,Veito de fábrica.,Negativo,52,Brazil
+001033,"Qualidade top, super recomendo!",Positivo,53,Brazil
+001034,Veito de fábrica.,Negativo,54,Brazil
+001035,"Amei o design moderno e leve.",Positivo,55,Brazil
+001036,Quebrou na primeira queda.,Negativo,56,Brazil
+001037,"Chegou antes do prazo e com brinde!",Positivo,57,Brazil
+001038,Veito de fábrica.,Negativo,58,Brazil
+001039,"Qualidade top, super recomendo!",Positivo,59,Brazil
+001040,Veito de fábrica.,Negativo,60,Brazil
+001041,"Amei o design moderno e leve.",Positivo,61,Brazil
+001042,Quebrou na primeira queda.,Negativo,62,Brazil
+001043,"Chegou antes do prazo e com brinde!",Positivo,63,Brazil
+001044,Veito de fábrica.,Negativo,64,Brazil
+001045,"Qualidade top, super recomendo!",Positivo,65,Brazil
+001046,Veito de fábrica.,Negativo,66,Brazil
+001047,"Amei o design moderno e leve.",Positivo,67,Brazil
+001048,Quebrou na primeira queda.,Negativo,68,Brazil
+001049,"Chegou antes do prazo e com brinde!",Positivo,69,Brazil
+001050,Veito de fábrica.,Negativo,70,Brazil
+001051,"Qualidade top, super recomendo!",Positivo,71,Brazil
+001052,Veito de fábrica.,Negativo,72,Brazil
+001053,"Amei o design moderno e leve.",Positivo,73,Brazil
+001054,Quebrou na primeira queda.,Negativo,74,Brazil
+001055,"Chegou antes do prazo e com brinde!",Positivo,75,Brazil
+001056,Veito de fábrica.,Negativo,76,Brazil
+001057,"Qualidade top, super recomendo!",Positivo,77,Brazil
+001058,Veito de fábrica.,Negativo,78,Brazil
+001059,"Amei o design moderno e leve.",Positivo,79,Brazil
+001060,Quebrou na primeira queda.,Negativo,80,Brazil
+001061,"Chegou antes do prazo e com brinde!",Positivo,81,Brazil
+001062,Veito de fábrica.,Negativo,82,Brazil
+001063,"Qualidade top, super recomendo!",Positivo,83,Brazil
+001064,Veito de fábrica.,Negativo,84,Brazil
+001065,"Amei o design moderno e leve.",Positivo,85,Brazil
+001066,Quebrou na primeira queda.,Negativo,86,Brazil
+001067,"Chegou antes do prazo e com brinde!",Positivo,87,Brazil
+001088,"Qualidade top, super recomendo!",Positivo,88,Brazil
+001089,Veito de fábrica.,Negativo,89,Brazil
+001090,"Amei o design moderno e leve.",Positivo,19,Brazil
+001091,Quebrou na primeira queda.,Negativo,41,Brazil
+001092,"Chegou antes do prazo e com brinde!",Positivo,62,Brazil
+001093,Veito de fábrica.,Negativo,39,Brazil
+001094,"Qualidade top, super recomendo!",Positivo,46,Brazil
+001095,Veito de fábrica.,Negativo,57,Brazil
+001096,"Amei o design moderno e leve.",Positivo,26,Brazil
+001097,Quebrou na primeira queda.,Negativo,67,Brazil
+001098,"Chegou antes do prazo e com brinde!",Positivo,98,Brazil
+001099,Veito de fábrica.,Negativo,99,Brazil
+001100,"Qualidade top, super recomendo!",Positivo,18,Brazil
+001101,Veito de fábrica.,Negativo,19,Brazil
+001102,"Amei o design moderno e leve.",Positivo,27,Brazil
+001103,Quebrou na primeira queda.,Negativo,38,Brazil
+001104,"Chegou antes do prazo e com brinde!",Positivo,43,Brazil
+001105,Veito de fábrica.,Negativo,105,Brazil
+001106,"Qualidade top, super recomendo!",Positivo,62,Brazil
+001107,Veito de fábrica.,Negativo,76,Brazil
+001108,"Amei o design moderno e leve.",Positivo,18,Brazil
+001109,Quebrou na primeira queda.,Negativo,19,Brazil
+001110,"Chegou antes do prazo e com brinde!",Positivo,31,Brazil
+001111,Veito de fábrica.,Negativo,41,Brazil
+001112,"Qualidade top, super recomendo!",Positivo,27,Brazil
+001113,Veito de fábrica.,Negativo,34,Brazil
+001114,"Amei o design moderno e leve.",Positivo,19,Brazil
+001115,Quebrou na primeira queda.,Negativo,52,Brazil
+001116,"Chegou antes do prazo e com brinde!",Positivo,60,Brazil
+001117,Veito de fábrica.,Negativo,117,Brazil
+001118,"Qualidade top, super recomendo!",Positivo,18,Brazil
+001119,Veito de fábrica.,Negativo,29,Brazil
+001120,"Amei o design moderno e leve.",Positivo,20,Brazil
+001121,Quebrou na primeira queda.,Negativo,21,Brazil
+001122,"Chegou antes do prazo e com brinde!",Positivo,52,Brazil
+001123,Veito de fábrica.,Negativo,23,Brazil
+001124,"Qualidade top, super recomendo!",Positivo,24,Brazil
+001125,Veito de fábrica.,Negativo,28,Brazil
+001126,"Amei o design moderno e leve.",Positivo,126,Brazil
+001127,Quebrou na primeira queda.,Negativo,27,Brazil
+001128,"Chegou antes do prazo e com brinde!",Positivo,38,Brazil
+001129,Veito de fábrica.,Negativo,79,Brazil
+001130,"Qualidade top, super recomendo!",Positivo,30,Brazil
+001131,Veito de fábrica.,Negativo,131,Brazil
+001132,"Amei o design moderno e leve.",Positivo,39,Brazil
+001133,Veito de fábrica.,Negativo,36,Brazil
+001134,"Qualidade top, super recomendo!",Positivo,47,Brazil
+001135,Veito de fábrica.,Negativo,35,Brazil
+001136,"Amei o design moderno e leve.",Positivo,56,Brazil
+001137,Quebrou na primeira queda.,Negativo,37,Brazil
+001138,"Cheg superbom!",Positivo,68,Brazil
+001139,Veito de fábrica.,Negativo,49,Brazil
+001140,"Qualidade top, super recomendo!",Positivo,40,Brazil
+001141,Veito de fábrica.,Negativo,47,Brazil
+001142,"Amei o design moderno e leve.",Positivo,42,Brazil
+001143,Quebrou na primeira queda.,Negativo,23,Brazil
+001144,"Cheg superbom!",Positivo,54,Brazil
+001145,Veito de fábrica.,Negativo,45,Brazil
+001146,"Qualidade top, super recomendo!",Positivo,36,Brazil
+001147,Veito de fábrica.,Negativo,147,Bagara.,Negativo,47,Brazil
+001148,"Cheg superbom!",Positivo,81Brazil
+001149,Veito de fábrica.,Negativo,49,Brazil
+001150,"Qualidade top, super recomendo!",Positivo,50,Brazil
+001151,Veito de fábrica.,Negativo,51,Brazil
+001152,"Amei o design moderno e leve.",Positivo,25,Brazil
+001153,Quebrou na primeira queda.,Negativo,53,Brazil
+001154,"Cheg superbom!",Positivo,54,Brazil
+001155,Veito de fábrica.,Negativo,19,Brazil
+001156,"Qualidade top, super recomendo!",Positivo,26,Brazil
+001157,Veito de fábrica.,Negativo,47,Brazil
+001158,"Amei o design moderno e leve.",Positivo,18,Brazil
+001159,Quebrou na primeira queda.,Negativo,79,Brazil
+001160,"Cheg superbom!",Positivo,60,Brazil
+001161,Veito de fábrica.,Negativo,21,Brazil
+001162,"Qualidade top, super recomendo!",Positivo,42,Brazil
+001163,Veito de fábrica.,Negativo,63,Brazil
+001164,"Amei o design moderno e leve.",Positivo,24,Brazil
+001165,Quebrou na primeira queda.,Negativo,25,Brazil
+001166,"Cheg superbom!",Positivo,36,Brazil
+001167,Veito de fábrica.,Negativo,47,Brazil
+001168,"Qualidade top, super recomendo!",Positivo,58,Brazil
+001169,Veito de fábrica.,Negativo,19,Brazil
+001170,"Amei o design moderno e leve.",Positivo,60,Brazil
+001171,Quebrou na primeira queda.,Negativo,21,Brazil
+001172,"Cheg superbom!",Positivo,32,Brazil
+001173,Veito de fábrica.,Negativo,43,Brazil
+001174,"Qualidade top, super recomendo!",Positivo,54,Brazil
+001175,"Veio de fábrica riscado.",Negativo,58,Brazil
