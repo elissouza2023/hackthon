@@ -32,5 +32,5 @@ Projeto de análise de sentimentos (Positivo, Negativo e Neutro) desenvolvido em
 
 ## 📌 Status
 
-Projeto em fase de estruturação e testes. Novos módulos e ajustes ainda serão adicionados.
-
+Projeto em fase avançada de desenvolvimento e validação.
+O pipeline de Machine Learning está consolidado, com foco em interpretabilidade e integração com backend e frontend. Novos ajustes e extensões poderão ser adicionados conforme evolução do produto.
