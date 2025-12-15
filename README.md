@@ -1,6 +1,6 @@
 # Hackathon ONE G8 — Sentiment Analysis API
 
-Projeto em desenvolvimento para análise de sentimentos (Positivo, Negativo e Neutro) utilizando **Python**, **Scikit-Learn** e **Pipeline TF-IDF + Regressão Logística**.
+Projeto de análise de sentimentos (Positivo, Negativo e Neutro) desenvolvido em Python, utilizando Scikit-Learn com pipeline TF-IDF + Regressão Logística, focado em acurácia, confiabilidade e explicabilidade das predições.
 
 ## 📂 Estrutura do Projeto
 
@@ -13,10 +13,21 @@ Projeto em desenvolvimento para análise de sentimentos (Positivo, Negativo e Ne
 
 ## 🚀 Funcionalidades
 
-* Treinamento do modelo com limpeza de texto.
-* Balanceamento usando **Random Oversampling**.
-* Classificação em 3 categorias.
-* API de predição via método `POST /predict`.
+* Limpeza e normalização de texto.
+
+* Balanceamento das classes com Random Oversampling (ênfase na classe Neutra).
+
+* Classificação de sentimentos em 3 categorias.
+
+* Validação com métricas detalhadas e matrizes de confusão normalizadas.
+
+* Predição com probabilidade associada.
+
+* Explicabilidade por instância, retornando as palavras mais influentes e seus pesos.
+
+* Exportação do modelo e do TF-IDF com joblib para uso em produção.
+
+* API de predição via endpoint POST /predict.
 
 
 ## 📌 Status
