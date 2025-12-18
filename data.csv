@@ -1980,3 +1980,104 @@ idtext,text,label,date,age,country
 001998,"Funcional, cumpre o que promete, nada de excepcional.",Neutro,01-09-2025,34,Brazil
 001999,"Produto de excelente qualidade, chegou muito rápido!",Positivo,25-05-2025,62,Brazil
 002000,"Padrão, sem problemas nem destaques.",Neutro,21-08-2025,51,Brazil
+002001,"Esperava mais pelo valor, não atendeu como imaginei.",Negativo,03-01-2025,34,Brazil
+002002,"Funciona, mas deixou a desejar em vários pontos.",Negativo,05-01-2025,41,Brazil
+002003,"Não foi uma boa experiência no geral.",Negativo,07-01-2025,29,Brazil
+002004,"Produto ok, porém não recomendo.",Negativo,10-01-2025,52,Brazil
+002005,"Achei bem abaixo do esperado.",Negativo,12-01-2025,38,Brazil
+002006,"Não gostei muito do resultado final.",Negativo,15-01-2025,45,Brazil
+002007,"Entrega demorou e isso atrapalhou bastante.",Negativo,18-01-2025,33,Brazil
+002008,"Atendeu parcialmente, mas ficou devendo.",Negativo,21-01-2025,27,Brazil
+002009,"Não foi péssimo, mas também não foi bom.",Negativo,24-01-2025,49,Brazil
+002010,"Pelo preço, esperava algo melhor.",Negativo,27-01-2025,36,Brazil
+002011,"Qualidade deixou a desejar.",Negativo,30-01-2025,58,Brazil
+002012,"Não me agradou, experiência fraca.",Negativo,02-02-2025,42,Brazil
+002013,"Funcionou, porém com muitos pontos negativos.",Negativo,05-02-2025,31,Brazil
+002014,"Não compraria novamente.",Negativo,08-02-2025,47,Brazil
+002015,"Achei meio decepcionante.",Negativo,11-02-2025,26,Brazil
+002016,"Produto simples demais para o que promete.",Negativo,14-02-2025,39,Brazil
+002017,"Não correspondeu às expectativas.",Negativo,17-02-2025,55,Brazil
+002018,"Cumpre o básico, mas nada além disso.",Negativo,20-02-2025,44,Brazil
+002019,"Não fiquei satisfeito com a compra.",Negativo,23-02-2025,32,Brazil
+002020,"Deixa a impressão de algo mal acabado.",Negativo,26-02-2025,48,Brazil
+002021,"Uso possível, mas com várias limitações.",Negativo,01-03-2025,35,Brazil
+002022,"Não valeu muito a pena.",Negativo,04-03-2025,53,Brazil
+002023,"Atendimento foi educado, mas não resolveu.",Negativo,07-03-2025,40,Brazil
+002024,"Produto chegou, porém não era o que esperava.",Negativo,10-03-2025,28,Brazil
+002025,"Qualidade inferior ao anunciado.",Negativo,13-03-2025,46,Brazil
+002026,"Não foi uma compra feliz.",Negativo,16-03-2025,59,Brazil
+002027,"Funciona quando quer.",Negativo,19-03-2025,34,Brazil
+002028,"Achei bem mediano, para menos.",Negativo,22-03-2025,51,Brazil
+002029,"Não me convenceu.",Negativo,25-03-2025,37,Brazil
+002030,"Experiência deixou um gosto ruim.",Negativo,28-03-2025,43,Brazil
+002031,"Entrega atrasou mais do que o esperado.",Negativo,31-03-2025,30,Brazil
+002032,"Produto não agradou no uso diário.",Negativo,03-04-2025,56,Brazil
+002033,"Nada demais, não repetiria a compra.",Negativo,06-04-2025,41,Brazil
+002034,"Atendeu só o mínimo.",Negativo,09-04-2025,29,Brazil
+002035,"Não ficou bom no final.",Negativo,12-04-2025,48,Brazil
+002036,"Qualidade poderia ser melhor.",Negativo,15-04-2025,35,Brazil
+002037,"Achei fraco pelo preço.",Negativo,18-04-2025,52,Brazil
+002038,"Não trouxe o resultado esperado.",Negativo,21-04-2025,44,Brazil
+002039,"Uso limitado e pouco prático.",Negativo,24-04-2025,27,Brazil
+002040,"Não compensou.",Negativo,27-04-2025,39,Brazil
+002041,"Produto deixou a desejar.",Negativo,30-04-2025,46,Brazil
+002042,"Esperava mais qualidade.",Negativo,03-05-2025,33,Brazil
+002043,"Não atendeu minhas necessidades.",Negativo,06-05-2025,58,Brazil
+002044,"Funciona, mas incomoda.",Negativo,09-05-2025,42,Brazil
+002045,"Não recomendo para quem é mais exigente.",Negativo,12-05-2025,36,Brazil
+002046,"Produto honesto, porém problemático.",Negativo,15-05-2025,50,Brazil
+002047,"Não fiquei convencido.",Negativo,18-05-2025,31,Brazil
+002048,"Qualidade irregular.",Negativo,21-05-2025,47,Brazil
+002049,"Entrega ok, produto nem tanto.",Negativo,24-05-2025,29,Brazil
+002050,"Não trouxe boa experiência.",Negativo,27-05-2025,54,Brazil
+002051,"Achei confuso de usar.",Negativo,30-05-2025,38,Brazil
+002052,"Produto deixa a desejar no acabamento.",Negativo,02-06-2025,45,Brazil
+002053,"Não superou expectativas.",Negativo,05-06-2025,34,Brazil
+002054,"Para o dia a dia, não funciona bem.",Negativo,08-06-2025,41,Brazil
+002055,"Qualidade aquém do esperado.",Negativo,11-06-2025,56,Brazil
+002056,"Achei pouco eficiente.",Negativo,14-06-2025,28,Brazil
+002057,"Não fiquei satisfeito no uso.",Negativo,17-06-2025,49,Brazil
+002058,"Entrega demorou e produto não compensou.",Negativo,20-06-2025,37,Brazil
+002059,"Não vale o investimento.",Negativo,23-06-2025,52,Brazil
+002060,"Produto mediano para ruim.",Negativo,26-06-2025,44,Brazil
+002061,"Não atendeu bem.",Negativo,29-06-2025,31,Brazil
+002062,"Esperava algo mais caprichado.",Negativo,02-07-2025,48,Brazil
+002063,"Não gostei do resultado.",Negativo,05-07-2025,35,Brazil
+002064,"Uso difícil e pouco intuitivo.",Negativo,08-07-2025,40,Brazil
+002065,"Produto deixou dúvidas.",Negativo,11-07-2025,57,Brazil
+002066,"Não trouxe vantagem alguma.",Negativo,14-07-2025,29,Brazil
+002067,"Achei decepcionante no geral.",Negativo,17-07-2025,46,Brazil
+002068,"Entrega lenta e produto comum.",Negativo,20-07-2025,33,Brazil
+002069,"Não correspondeu ao anúncio.",Negativo,23-07-2025,51,Brazil
+002070,"Funciona, mas não agrada.",Negativo,26-07-2025,38,Brazil
+002071,"Produto não convence.",Negativo,29-07-2025,42,Brazil
+002072,"Experiência poderia ser melhor.",Negativo,01-08-2025,55,Brazil
+002073,"Não valeu a compra.",Negativo,04-08-2025,36,Brazil
+002074,"Achei abaixo do padrão.",Negativo,07-08-2025,47,Brazil
+002075,"Produto chegou, mas frustrou.",Negativo,10-08-2025,30,Brazil
+002076,"Não me atendeu bem.",Negativo,13-08-2025,53,Brazil
+002077,"Qualidade deixa dúvidas.",Negativo,16-08-2025,41,Brazil
+002078,"Uso limitado.",Negativo,19-08-2025,28,Brazil
+002079,"Não foi uma boa escolha.",Negativo,22-08-2025,49,Brazil
+002080,"Produto poderia ser melhor.",Negativo,25-08-2025,35,Brazil
+002081,"Achei fraco no uso diário.",Negativo,28-08-2025,44,Brazil
+002082,"Não agradou.",Negativo,31-08-2025,52,Brazil
+002083,"Entrega atrasou e atrapalhou.",Negativo,03-09-2025,39,Brazil
+002084,"Não compensou o preço.",Negativo,06-09-2025,46,Brazil
+002085,"Produto simples demais.",Negativo,09-09-2025,31,Brazil
+002086,"Não foi satisfatório.",Negativo,12-09-2025,57,Brazil
+002087,"Achei abaixo do esperado.",Negativo,15-09-2025,34,Brazil
+002088,"Não funcionou bem para mim.",Negativo,18-09-2025,48,Brazil
+002089,"Produto deixou a desejar.",Negativo,21-09-2025,40,Brazil
+002090,"Não trouxe boa impressão.",Negativo,24-09-2025,29,Brazil
+002091,"Uso complicado.",Negativo,27-09-2025,54,Brazil
+002092,"Não correspondeu.",Negativo,30-09-2025,37,Brazil
+002093,"Achei pouco prático.",Negativo,03-10-2025,45,Brazil
+002094,"Produto não agradou.",Negativo,06-10-2025,32,Brazil
+002095,"Não recomendo.",Negativo,09-10-2025,51,Brazil
+002096,"Entrega ok, produto ruim.",Negativo,12-10-2025,38,Brazil
+002097,"Experiência negativa.",Negativo,15-10-2025,43,Brazil
+002098,"Não vale a pena.",Negativo,18-10-2025,56,Brazil
+002099,"Produto deixou frustração.",Negativo,21-10-2025,34,Brazil
+002100,"Não fiquei satisfeito.",Negativo,24-10-2025,47,Brazil
+002101,"Muito insatisfeito  com o atendimento. Não resolveram meu problema.",Negativo,30-11-2025,37,Brazil
